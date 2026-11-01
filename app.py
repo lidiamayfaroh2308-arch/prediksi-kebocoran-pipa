@@ -89,6 +89,7 @@ st.markdown("""
 
 .stApp {
     background-color: #F3F6FA;
+    color: #183B5C;
 }
 
 .block-container {
@@ -283,6 +284,35 @@ div[data-testid="stDataFrame"] {
 .stDownloadButton button:hover {
     background-color: #12365A;
     color: white;
+}
+
+
+/* WARNA FORM DAN TULISAN INPUT */
+
+div[data-testid="stMain"] [data-testid="stWidgetLabel"] {
+    color: #183B5C !important;
+}
+
+div[data-testid="stMain"] input {
+    background-color: #FFFFFF !important;
+    color: #183B5C !important;
+    border-color: #CBD5E1 !important;
+}
+
+div[data-testid="stMain"] [data-baseweb="select"] > div {
+    background-color: #FFFFFF !important;
+    color: #183B5C !important;
+    border-color: #CBD5E1 !important;
+}
+
+div[data-testid="stMain"] [data-baseweb="select"] span {
+    color: #183B5C !important;
+}
+
+div[data-testid="stFormSubmitButton"] button {
+    background-color: #0878C9 !important;
+    color: #FFFFFF !important;
+    border: none !important;
 }
 
 
@@ -727,46 +757,97 @@ elif menu == "Prediksi Risiko":
 
             with col1:
 
+                st.markdown("**1. Usia Pipa (tahun)**")
+                st.caption(
+                    "Lama pipa telah digunakan sejak pertama kali dipasang."
+                )
+
                 usia = st.number_input(
-                    "Usia Pipa (tahun)",
+                    "Masukkan usia pipa",
                     min_value=0,
                     max_value=100,
-                    value=10
+                    value=10,
+                    label_visibility="collapsed",
+                    help="Contoh: 10 berarti pipa telah digunakan selama 10 tahun."
+                )
+
+                st.markdown("**2. Jenis Material Pipa**")
+                st.caption(
+                    "Bahan utama yang digunakan untuk membuat pipa."
                 )
 
                 jenis = st.selectbox(
-                    "Jenis Pipa",
-                    ["PVC", "Besi", "HDPE"]
+                    "Pilih material pipa",
+                    ["PVC", "Besi", "HDPE"],
+                    label_visibility="collapsed",
+                    help="Pilih material pipa sesuai data yang dimiliki."
+                )
+
+                st.markdown("**3. Diameter Pipa (mm)**")
+                st.caption(
+                    "Ukuran garis tengah pipa dalam satuan milimeter."
                 )
 
                 diameter = st.number_input(
-                    "Diameter Pipa (mm)",
+                    "Masukkan diameter pipa",
                     min_value=1,
                     max_value=1000,
-                    value=100
+                    value=100,
+                    label_visibility="collapsed",
+                    help="Contoh: 100 berarti diameter pipa adalah 100 milimeter."
                 )
 
             with col2:
 
+                st.markdown("**4. Tekanan Air (bar)**")
+                st.caption(
+                    "Besarnya tekanan air di dalam jaringan pipa."
+                )
+
                 tekanan = st.number_input(
-                    "Tekanan Air (bar)",
+                    "Masukkan tekanan air",
                     min_value=0.0,
                     max_value=20.0,
                     value=3.0,
-                    step=0.1
+                    step=0.1,
+                    label_visibility="collapsed",
+                    help="Contoh: 3,0 berarti tekanan air sebesar 3 bar."
+                )
+
+                st.markdown("**5. Riwayat Kebocoran (kali)**")
+                st.caption(
+                    "Jumlah kejadian kebocoran yang pernah tercatat pada pipa."
                 )
 
                 riwayat = st.number_input(
-                    "Jumlah Riwayat Kebocoran",
+                    "Masukkan jumlah riwayat kebocoran",
                     min_value=0,
                     max_value=100,
-                    value=0
+                    value=0,
+                    label_visibility="collapsed",
+                    help="Contoh: 2 berarti pipa pernah mengalami kebocoran sebanyak 2 kali."
+                )
+
+                st.markdown("**6. Kondisi Fisik Pipa**")
+                st.caption(
+                    "Kondisi pipa berdasarkan hasil pemeriksaan atau pengamatan."
                 )
 
                 kondisi = st.selectbox(
-                    "Kondisi Pipa",
-                    ["Baik", "Sedang", "Buruk"]
+                    "Pilih kondisi pipa",
+                    ["Baik", "Sedang", "Buruk"],
+                    label_visibility="collapsed",
+                    help=(
+                        "Baik: tidak terlihat kerusakan. "
+                        "Sedang: terdapat tanda penurunan kondisi. "
+                        "Buruk: terdapat kerusakan yang perlu ditangani."
+                    )
                 )
+
+            st.info(
+                "Pastikan seluruh nilai yang dimasukkan sesuai dengan data pipa. "
+                "Contoh angka di atas hanya nilai awal untuk latihan dan dapat diubah."
+            )
 
             submitted = st.form_submit_button(
                 "Prediksi Risiko Sekarang",
