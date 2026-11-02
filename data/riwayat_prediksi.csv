@@ -1,0 +1,15 @@
+tanggal_prediksi,id_pipa,wilayah,usia_pipa,jenis_pipa,diameter_mm,tekanan_bar,riwayat_kebocoran,kondisi_pipa,hasil_prediksi
+2026-11-01 18:28,P001,Wilayah A,21,PVC,50,4.1,1,Baik,Sedang
+2026-11-01 18:28,P001,Wilayah A,21,PVC,50,4.1,1,Baik,Sedang
+2026-11-01 19:21,0000,wilayah d,9,Besi,94,3.2,11,Sedang,Sedang
+2026-11-01 19:21,0000,wilayah d,9,Besi,94,3.2,11,Sedang,Sedang
+2026-11-01 20:32,P422,Wilayah D,6,HDPE,200,1.66,5,Sedang,Sedang
+2026-11-01 20:33,UJI-62,WILAYAH B,8,Besi,104,3.78,4,Sedang,Sedang
+2026-11-01 20:33,P001,Wilayah c,21,PVC,50,4.1,1,Baik,Sedang
+2026-11-01 20:34,6002,wilayah b,10,PVC,100,3.0,0,Baik,Rendah
+2026-11-01 20:35,P001,Wilayah c,21,PVC,50,4.1,1,Baik,Sedang
+2026-11-02 08:42,P512,Wilayah e,13,HDPE,650,4.0,3,Sedang,Tinggi
+2026-11-02 08:43,P512,Wilayah e,13,HDPE,650,4.0,3,Sedang,Tinggi
+2026-11-02 08:43,UJI 602,wilyah f,10,PVC,100,3.0,0,Baik,Rendah
+2026-11-02 08:44,UJI 600,Belum ditentukan,10,PVC,100,3.0,0,Baik,Rendah
+2026-11-02 08:45,UJI 600,Belum ditentukan,10,PVC,100,3.0,0,Baik,Rendah

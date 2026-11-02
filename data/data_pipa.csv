@@ -1,501 +1,512 @@
-id_pipa,wilayah,usia_pipa,jenis_pipa,diameter_mm,tekanan_bar,riwayat_kebocoran,kondisi_pipa,risiko_kebocoran
-P001,Wilayah A,21,PVC,50,4.1,1,Baik,Sedang
-P002,Wilayah A,22,HDPE,200,1.8,3,Baik,Sedang
-P003,Wilayah E,7,PVC,200,3.61,4,Baik,Rendah
-P004,Wilayah B,14,PVC,150,3.56,0,Buruk,Sedang
-P005,Wilayah C,23,Besi,100,2.47,1,Buruk,Tinggi
-P006,Wilayah A,4,PVC,150,1.84,2,Sedang,Rendah
-P007,Wilayah C,24,Besi,200,1.94,3,Baik,Sedang
-P008,Wilayah A,27,HDPE,200,4.6,2,Sedang,Tinggi
-P009,Wilayah A,2,HDPE,75,4.21,0,Buruk,Sedang
-P010,Wilayah C,13,Besi,150,3.72,2,Baik,Rendah
-P011,Wilayah E,7,HDPE,100,3.96,5,Sedang,Sedang
-P012,Wilayah C,21,PVC,200,4.05,1,Sedang,Tinggi
-P013,Wilayah A,30,HDPE,200,2.27,2,Buruk,Tinggi
-P014,Wilayah E,8,PVC,100,2.9,0,Baik,Rendah
-P015,Wilayah D,29,HDPE,100,2.24,3,Baik,Sedang
-P016,Wilayah E,5,Besi,75,2.36,4,Sedang,Sedang
-P017,Wilayah A,14,HDPE,150,2.77,1,Sedang,Sedang
-P018,Wilayah D,25,PVC,50,2.03,1,Buruk,Tinggi
-P019,Wilayah E,20,PVC,150,2.84,3,Sedang,Tinggi
-P020,Wilayah C,28,PVC,50,3.89,4,Buruk,Tinggi
-P021,Wilayah C,4,Besi,150,2.05,0,Buruk,Rendah
-P022,Wilayah E,17,PVC,200,4.69,5,Baik,Tinggi
-P023,Wilayah E,20,PVC,75,2.81,1,Sedang,Sedang
-P024,Wilayah C,30,PVC,200,2.63,0,Baik,Rendah
-P025,Wilayah A,29,Besi,75,1.7,4,Buruk,Tinggi
-P026,Wilayah B,24,Besi,50,4.92,4,Buruk,Tinggi
-P027,Wilayah D,22,Besi,200,2.08,4,Buruk,Tinggi
-P028,Wilayah C,7,HDPE,75,4.0,3,Buruk,Tinggi
-P029,Wilayah A,15,HDPE,150,1.92,1,Baik,Sedang
-P030,Wilayah A,19,HDPE,75,3.56,0,Baik,Rendah
-P031,Wilayah C,8,PVC,50,4.51,0,Sedang,Sedang
-P032,Wilayah E,22,Besi,75,3.39,5,Buruk,Tinggi
-P033,Wilayah A,19,Besi,75,4.25,3,Baik,Tinggi
-P034,Wilayah A,22,Besi,100,2.98,3,Buruk,Tinggi
-P035,Wilayah A,22,HDPE,50,1.71,5,Baik,Sedang
-P036,Wilayah C,8,PVC,75,3.38,1,Sedang,Sedang
-P037,Wilayah E,15,PVC,50,3.05,4,Baik,Sedang
-P038,Wilayah D,27,PVC,50,4.74,1,Baik,Sedang
-P039,Wilayah D,16,PVC,150,4.66,1,Baik,Sedang
-P040,Wilayah E,9,Besi,100,2.98,5,Buruk,Tinggi
-P041,Wilayah A,22,HDPE,150,2.04,2,Baik,Sedang
-P042,Wilayah E,19,HDPE,200,1.71,2,Baik,Sedang
-P043,Wilayah B,16,HDPE,200,2.05,4,Baik,Sedang
-P044,Wilayah E,3,HDPE,50,3.86,1,Sedang,Rendah
-P045,Wilayah E,8,HDPE,200,1.64,0,Sedang,Rendah
-P046,Wilayah C,19,HDPE,100,4.77,1,Sedang,Tinggi
-P047,Wilayah C,8,Besi,150,1.96,5,Baik,Sedang
-P048,Wilayah A,30,PVC,50,3.1,4,Buruk,Tinggi
-P049,Wilayah B,18,PVC,200,2.43,2,Buruk,Tinggi
-P050,Wilayah E,12,Besi,75,3.03,4,Sedang,Sedang
-P051,Wilayah A,26,HDPE,200,1.53,4,Baik,Sedang
-P052,Wilayah B,29,PVC,100,1.9,0,Sedang,Sedang
-P053,Wilayah C,9,Besi,200,2.24,2,Baik,Rendah
-P054,Wilayah D,17,Besi,100,4.67,0,Baik,Sedang
-P055,Wilayah C,27,Besi,50,1.51,1,Sedang,Sedang
-P056,Wilayah A,6,HDPE,150,3.43,3,Sedang,Sedang
-P057,Wilayah B,3,HDPE,75,3.41,2,Sedang,Rendah
-P058,Wilayah B,14,PVC,50,2.58,0,Buruk,Sedang
-P059,Wilayah D,22,PVC,50,2.74,4,Buruk,Tinggi
-P060,Wilayah B,20,HDPE,75,4.74,1,Buruk,Tinggi
-P061,Wilayah D,29,Besi,50,2.13,2,Buruk,Tinggi
-P062,Wilayah A,26,HDPE,75,2.43,5,Baik,Sedang
-P063,Wilayah B,28,Besi,75,2.2,3,Baik,Sedang
-P064,Wilayah C,8,PVC,75,2.89,2,Buruk,Sedang
-P065,Wilayah A,12,HDPE,200,2.9,4,Baik,Sedang
-P066,Wilayah E,4,Besi,75,3.53,2,Baik,Rendah
-P067,Wilayah E,14,Besi,100,3.03,4,Baik,Sedang
-P068,Wilayah E,7,Besi,50,3.98,0,Sedang,Rendah
-P069,Wilayah C,22,HDPE,75,2.77,0,Buruk,Sedang
-P070,Wilayah D,20,Besi,50,4.02,2,Sedang,Tinggi
-P071,Wilayah D,11,Besi,100,3.44,1,Sedang,Sedang
-P072,Wilayah A,22,HDPE,75,3.65,2,Sedang,Sedang
-P073,Wilayah C,10,Besi,75,3.0,4,Sedang,Sedang
-P074,Wilayah B,15,Besi,150,3.86,4,Sedang,Tinggi
-P075,Wilayah A,22,PVC,100,3.3,5,Sedang,Tinggi
-P076,Wilayah A,27,PVC,100,2.29,1,Baik,Sedang
-P077,Wilayah E,8,Besi,200,4.47,0,Sedang,Sedang
-P078,Wilayah A,7,HDPE,150,3.23,1,Baik,Rendah
-P079,Wilayah A,29,PVC,150,2.27,5,Sedang,Tinggi
-P080,Wilayah E,18,PVC,50,3.1,3,Sedang,Tinggi
-P081,Wilayah D,20,Besi,150,3.64,5,Buruk,Tinggi
-P082,Wilayah D,27,HDPE,150,4.64,5,Buruk,Tinggi
-P083,Wilayah B,9,PVC,100,4.18,4,Sedang,Tinggi
-P084,Wilayah C,9,Besi,50,4.0,1,Baik,Sedang
-P085,Wilayah B,29,HDPE,50,1.98,1,Baik,Sedang
-P086,Wilayah D,23,PVC,50,2.95,2,Sedang,Sedang
-P087,Wilayah A,2,PVC,150,2.86,4,Buruk,Sedang
-P088,Wilayah D,28,HDPE,150,3.17,2,Baik,Sedang
-P089,Wilayah B,28,Besi,200,4.12,4,Buruk,Tinggi
-P090,Wilayah D,16,PVC,100,3.03,0,Baik,Rendah
-P091,Wilayah D,24,PVC,150,4.72,4,Sedang,Tinggi
-P092,Wilayah D,19,HDPE,50,1.79,3,Baik,Sedang
-P093,Wilayah C,6,PVC,100,2.83,1,Sedang,Rendah
-P094,Wilayah A,25,Besi,100,4.13,3,Baik,Tinggi
-P095,Wilayah A,16,PVC,200,1.68,2,Baik,Sedang
-P096,Wilayah A,25,HDPE,50,4.14,1,Baik,Sedang
-P097,Wilayah B,20,PVC,75,1.94,5,Baik,Sedang
-P098,Wilayah A,15,HDPE,100,4.18,1,Sedang,Tinggi
-P099,Wilayah E,25,PVC,100,1.88,0,Buruk,Sedang
-P100,Wilayah B,22,Besi,150,4.8,1,Baik,Sedang
-P101,Wilayah E,4,HDPE,100,4.48,4,Buruk,Tinggi
-P102,Wilayah E,26,PVC,100,3.36,5,Baik,Sedang
-P103,Wilayah C,21,Besi,50,4.47,3,Baik,Tinggi
-P104,Wilayah C,21,Besi,75,3.02,5,Sedang,Tinggi
-P105,Wilayah C,20,HDPE,150,3.13,5,Sedang,Tinggi
-P106,Wilayah D,28,PVC,50,2.48,3,Baik,Sedang
-P107,Wilayah B,19,HDPE,150,2.68,3,Buruk,Tinggi
-P108,Wilayah E,16,PVC,100,4.29,2,Baik,Sedang
-P109,Wilayah D,23,Besi,200,1.54,1,Baik,Sedang
-P110,Wilayah D,16,HDPE,75,3.92,5,Sedang,Tinggi
-P111,Wilayah C,26,PVC,50,2.53,3,Sedang,Tinggi
-P112,Wilayah E,22,HDPE,100,3.16,4,Baik,Sedang
-P113,Wilayah B,11,Besi,150,2.45,2,Baik,Rendah
-P114,Wilayah B,11,PVC,200,4.83,5,Baik,Sedang
-P115,Wilayah A,24,Besi,100,4.04,4,Sedang,Tinggi
-P116,Wilayah E,27,PVC,100,2.3,1,Baik,Sedang
-P117,Wilayah B,5,Besi,50,4.91,4,Baik,Sedang
-P118,Wilayah D,21,Besi,50,4.55,4,Baik,Tinggi
-P119,Wilayah D,15,Besi,75,4.88,2,Buruk,Tinggi
-P120,Wilayah A,4,PVC,150,3.22,4,Sedang,Sedang
-P121,Wilayah A,5,PVC,200,4.82,0,Buruk,Sedang
-P122,Wilayah E,18,Besi,200,3.59,4,Baik,Sedang
-P123,Wilayah C,13,Besi,150,2.54,4,Buruk,Tinggi
-P124,Wilayah B,19,HDPE,50,3.63,5,Baik,Sedang
-P125,Wilayah E,21,PVC,100,3.81,1,Baik,Sedang
-P126,Wilayah C,3,PVC,50,2.93,5,Sedang,Sedang
-P127,Wilayah A,2,PVC,100,3.97,5,Buruk,Sedang
-P128,Wilayah B,22,PVC,100,4.26,5,Sedang,Tinggi
-P129,Wilayah B,14,PVC,200,2.29,1,Buruk,Sedang
-P130,Wilayah E,3,PVC,75,4.27,4,Sedang,Sedang
-P131,Wilayah D,30,Besi,150,1.94,5,Baik,Sedang
-P132,Wilayah D,9,HDPE,200,3.23,0,Sedang,Rendah
-P133,Wilayah E,24,Besi,200,2.38,0,Baik,Rendah
-P134,Wilayah D,19,PVC,100,3.52,1,Sedang,Sedang
-P135,Wilayah D,30,Besi,75,4.99,3,Sedang,Tinggi
-P136,Wilayah B,3,Besi,100,2.93,2,Sedang,Rendah
-P137,Wilayah E,11,Besi,150,2.51,3,Buruk,Tinggi
-P138,Wilayah D,2,Besi,50,2.6,2,Baik,Rendah
-P139,Wilayah A,28,HDPE,50,3.8,4,Sedang,Tinggi
-P140,Wilayah A,7,HDPE,100,3.68,3,Sedang,Sedang
-P141,Wilayah D,7,Besi,200,1.96,2,Sedang,Rendah
-P142,Wilayah E,4,PVC,200,4.3,5,Baik,Sedang
-P143,Wilayah A,1,HDPE,150,1.83,0,Sedang,Rendah
-P144,Wilayah C,21,PVC,150,4.76,2,Sedang,Tinggi
-P145,Wilayah B,14,Besi,150,2.35,4,Baik,Sedang
-P146,Wilayah C,30,HDPE,200,4.11,1,Buruk,Tinggi
-P147,Wilayah A,25,Besi,100,4.77,4,Baik,Tinggi
-P148,Wilayah D,10,HDPE,100,4.43,4,Buruk,Tinggi
-P149,Wilayah E,28,PVC,150,3.39,2,Baik,Sedang
-P150,Wilayah D,13,Besi,100,4.54,5,Baik,Sedang
-P151,Wilayah D,8,Besi,50,2.61,3,Sedang,Sedang
-P152,Wilayah E,13,HDPE,75,3.23,0,Baik,Rendah
-P153,Wilayah B,11,PVC,150,1.85,3,Baik,Sedang
-P154,Wilayah D,14,HDPE,75,1.76,2,Baik,Rendah
-P155,Wilayah C,21,PVC,100,4.48,4,Baik,Tinggi
-P156,Wilayah B,21,HDPE,150,4.55,0,Sedang,Sedang
-P157,Wilayah A,21,HDPE,100,4.99,5,Baik,Tinggi
-P158,Wilayah A,25,HDPE,50,3.05,5,Baik,Sedang
-P159,Wilayah B,2,Besi,50,2.53,2,Sedang,Rendah
-P160,Wilayah A,17,Besi,200,3.89,1,Baik,Sedang
-P161,Wilayah B,20,Besi,200,3.89,3,Buruk,Tinggi
-P162,Wilayah D,8,Besi,100,3.11,5,Baik,Sedang
-P163,Wilayah E,29,Besi,200,2.05,3,Buruk,Tinggi
-P164,Wilayah B,10,HDPE,150,3.92,3,Buruk,Tinggi
-P165,Wilayah C,13,Besi,50,2.33,4,Baik,Sedang
-P166,Wilayah A,23,Besi,50,4.92,5,Baik,Tinggi
-P167,Wilayah C,19,HDPE,50,4.69,5,Sedang,Tinggi
-P168,Wilayah E,25,PVC,200,4.31,1,Sedang,Tinggi
-P169,Wilayah C,9,HDPE,75,3.7,5,Sedang,Sedang
-P170,Wilayah C,26,Besi,50,3.53,5,Baik,Sedang
-P171,Wilayah C,11,HDPE,150,2.11,1,Buruk,Sedang
-P172,Wilayah D,17,HDPE,100,4.41,2,Buruk,Tinggi
-P173,Wilayah B,26,Besi,100,4.31,3,Buruk,Tinggi
-P174,Wilayah D,25,PVC,150,4.89,4,Baik,Tinggi
-P175,Wilayah C,1,Besi,200,1.93,2,Sedang,Rendah
-P176,Wilayah E,19,Besi,100,1.88,1,Sedang,Sedang
-P177,Wilayah D,29,HDPE,100,4.7,1,Sedang,Tinggi
-P178,Wilayah A,30,HDPE,100,3.77,0,Baik,Rendah
-P179,Wilayah D,10,Besi,50,1.84,4,Baik,Sedang
-P180,Wilayah D,12,HDPE,200,2.97,5,Sedang,Sedang
-P181,Wilayah C,21,PVC,150,3.65,2,Baik,Sedang
-P182,Wilayah C,7,Besi,150,4.83,2,Baik,Rendah
-P183,Wilayah A,18,HDPE,100,1.71,2,Baik,Sedang
-P184,Wilayah A,28,Besi,50,3.82,5,Sedang,Tinggi
-P185,Wilayah E,2,Besi,75,4.96,4,Baik,Sedang
-P186,Wilayah B,7,HDPE,75,4.35,1,Baik,Rendah
-P187,Wilayah E,26,HDPE,50,2.47,1,Buruk,Tinggi
-P188,Wilayah C,9,PVC,50,3.81,0,Baik,Rendah
-P189,Wilayah B,26,PVC,200,2.63,1,Baik,Sedang
-P190,Wilayah C,24,Besi,200,1.9,0,Sedang,Sedang
-P191,Wilayah A,17,HDPE,50,3.08,1,Buruk,Tinggi
-P192,Wilayah A,24,HDPE,200,2.56,5,Buruk,Tinggi
-P193,Wilayah D,16,Besi,150,3.9,3,Sedang,Tinggi
-P194,Wilayah E,3,PVC,100,3.63,0,Baik,Rendah
-P195,Wilayah E,21,HDPE,200,3.99,3,Buruk,Tinggi
-P196,Wilayah A,10,Besi,200,3.62,0,Buruk,Sedang
-P197,Wilayah B,28,HDPE,200,4.02,1,Sedang,Tinggi
-P198,Wilayah D,14,Besi,150,2.9,5,Baik,Sedang
-P199,Wilayah D,11,HDPE,100,2.81,1,Sedang,Sedang
-P200,Wilayah C,3,PVC,50,1.83,0,Sedang,Rendah
-P201,Wilayah A,26,PVC,200,1.71,4,Sedang,Tinggi
-P202,Wilayah C,14,Besi,150,4.54,5,Baik,Sedang
-P203,Wilayah D,20,Besi,100,1.86,4,Baik,Sedang
-P204,Wilayah C,8,PVC,100,4.46,2,Baik,Sedang
-P205,Wilayah E,19,PVC,150,4.46,4,Sedang,Tinggi
-P206,Wilayah C,1,HDPE,100,1.6,2,Sedang,Rendah
-P207,Wilayah D,30,Besi,100,1.52,1,Sedang,Sedang
-P208,Wilayah D,3,PVC,50,1.82,4,Baik,Rendah
-P209,Wilayah E,15,Besi,75,2.8,5,Baik,Sedang
-P210,Wilayah A,20,PVC,50,2.04,4,Baik,Sedang
-P211,Wilayah B,9,Besi,150,3.2,3,Sedang,Sedang
-P212,Wilayah E,25,HDPE,50,2.71,0,Baik,Rendah
-P213,Wilayah A,16,HDPE,100,1.66,3,Buruk,Tinggi
-P214,Wilayah C,1,PVC,100,4.81,1,Buruk,Sedang
-P215,Wilayah D,11,PVC,50,3.24,3,Baik,Sedang
-P216,Wilayah A,18,HDPE,75,3.25,5,Buruk,Tinggi
-P217,Wilayah C,13,HDPE,50,3.03,3,Buruk,Tinggi
-P218,Wilayah A,19,Besi,200,2.92,5,Sedang,Tinggi
-P219,Wilayah C,13,PVC,100,2.1,4,Sedang,Sedang
-P220,Wilayah A,3,Besi,50,2.35,4,Sedang,Sedang
-P221,Wilayah A,13,Besi,100,2.28,1,Baik,Rendah
-P222,Wilayah B,17,HDPE,75,4.67,2,Baik,Sedang
-P223,Wilayah A,8,PVC,75,2.4,1,Sedang,Sedang
-P224,Wilayah D,6,HDPE,150,3.12,4,Buruk,Sedang
-P225,Wilayah D,22,HDPE,200,2.63,5,Baik,Sedang
-P226,Wilayah C,3,Besi,150,3.71,2,Sedang,Rendah
-P227,Wilayah C,17,PVC,100,3.12,0,Baik,Rendah
-P228,Wilayah E,3,HDPE,50,3.65,4,Baik,Rendah
-P229,Wilayah C,18,HDPE,50,3.07,4,Sedang,Tinggi
-P230,Wilayah C,20,Besi,200,2.03,0,Sedang,Sedang
-P231,Wilayah D,23,PVC,200,3.76,0,Baik,Rendah
-P232,Wilayah C,15,HDPE,200,3.63,2,Baik,Sedang
-P233,Wilayah C,13,Besi,100,3.88,0,Buruk,Sedang
-P234,Wilayah E,3,Besi,50,3.45,3,Baik,Rendah
-P235,Wilayah C,28,PVC,100,1.79,5,Baik,Sedang
-P236,Wilayah C,10,HDPE,150,1.95,5,Buruk,Tinggi
-P237,Wilayah E,18,Besi,100,4.35,5,Sedang,Tinggi
-P238,Wilayah B,3,HDPE,150,3.28,0,Baik,Rendah
-P239,Wilayah C,7,Besi,150,2.17,1,Baik,Rendah
-P240,Wilayah A,28,PVC,200,4.2,5,Buruk,Tinggi
-P241,Wilayah B,22,Besi,200,1.96,3,Baik,Sedang
-P242,Wilayah A,27,HDPE,200,4.33,1,Sedang,Tinggi
-P243,Wilayah D,14,Besi,75,4.89,4,Baik,Sedang
-P244,Wilayah B,8,HDPE,75,2.58,3,Buruk,Tinggi
-P245,Wilayah D,12,HDPE,200,4.95,3,Buruk,Tinggi
-P246,Wilayah B,17,HDPE,150,4.88,1,Buruk,Tinggi
-P247,Wilayah A,28,Besi,50,3.74,2,Sedang,Sedang
-P248,Wilayah E,23,HDPE,50,2.5,1,Baik,Sedang
-P249,Wilayah C,5,Besi,50,4.81,1,Buruk,Sedang
-P250,Wilayah D,30,PVC,150,1.69,4,Baik,Sedang
-P251,Wilayah C,3,Besi,75,1.6,0,Buruk,Rendah
-P252,Wilayah B,26,PVC,75,1.63,3,Sedang,Tinggi
-P253,Wilayah A,25,HDPE,150,3.07,0,Buruk,Sedang
-P254,Wilayah D,9,PVC,75,3.42,5,Sedang,Sedang
-P255,Wilayah E,4,Besi,75,2.55,0,Baik,Rendah
-P256,Wilayah A,15,PVC,50,4.43,3,Sedang,Tinggi
-P257,Wilayah A,21,HDPE,200,2.35,1,Baik,Sedang
-P258,Wilayah A,20,Besi,75,3.5,1,Sedang,Sedang
-P259,Wilayah E,17,Besi,50,4.84,4,Sedang,Tinggi
-P260,Wilayah C,18,PVC,150,4.56,0,Sedang,Sedang
-P261,Wilayah A,9,HDPE,50,2.75,0,Baik,Rendah
-P262,Wilayah B,25,HDPE,100,1.97,2,Sedang,Sedang
-P263,Wilayah B,27,HDPE,150,4.93,3,Sedang,Tinggi
-P264,Wilayah B,3,HDPE,150,1.63,1,Baik,Rendah
-P265,Wilayah E,29,PVC,100,4.77,4,Baik,Tinggi
-P266,Wilayah A,16,Besi,50,4.14,1,Baik,Sedang
-P267,Wilayah D,28,HDPE,100,2.46,2,Sedang,Sedang
-P268,Wilayah D,24,Besi,150,2.69,1,Sedang,Sedang
-P269,Wilayah D,12,HDPE,100,4.3,5,Sedang,Tinggi
-P270,Wilayah C,20,PVC,200,2.53,0,Baik,Rendah
-P271,Wilayah C,10,Besi,200,4.01,1,Sedang,Sedang
-P272,Wilayah A,15,PVC,100,3.65,3,Baik,Sedang
-P273,Wilayah A,3,HDPE,150,2.77,5,Sedang,Sedang
-P274,Wilayah C,5,HDPE,150,1.62,0,Baik,Rendah
-P275,Wilayah C,12,Besi,200,1.61,1,Sedang,Sedang
-P276,Wilayah C,12,Besi,50,3.51,4,Baik,Sedang
-P277,Wilayah D,21,Besi,75,4.86,0,Sedang,Sedang
-P278,Wilayah B,17,Besi,200,1.91,2,Sedang,Sedang
-P279,Wilayah D,20,Besi,150,2.2,1,Buruk,Tinggi
-P280,Wilayah C,6,HDPE,150,4.99,5,Buruk,Tinggi
-P281,Wilayah B,22,Besi,50,3.42,2,Buruk,Tinggi
-P282,Wilayah B,23,HDPE,75,4.28,4,Baik,Tinggi
-P283,Wilayah E,26,PVC,75,4.27,0,Baik,Sedang
-P284,Wilayah D,12,Besi,200,1.95,0,Baik,Rendah
-P285,Wilayah A,23,HDPE,150,3.34,3,Buruk,Tinggi
-P286,Wilayah B,5,Besi,50,3.07,5,Sedang,Sedang
-P287,Wilayah A,29,HDPE,200,2.14,1,Sedang,Sedang
-P288,Wilayah B,27,PVC,200,2.04,1,Baik,Sedang
-P289,Wilayah E,12,HDPE,100,4.46,2,Baik,Sedang
-P290,Wilayah B,9,PVC,100,3.65,0,Sedang,Rendah
-P291,Wilayah E,19,HDPE,75,2.1,4,Sedang,Tinggi
-P292,Wilayah E,11,HDPE,50,4.39,0,Baik,Rendah
-P293,Wilayah A,9,HDPE,75,4.18,3,Sedang,Tinggi
-P294,Wilayah D,16,HDPE,200,2.51,2,Sedang,Sedang
-P295,Wilayah D,10,Besi,50,3.91,1,Sedang,Sedang
-P296,Wilayah C,15,PVC,100,3.62,2,Buruk,Tinggi
-P297,Wilayah A,24,Besi,150,1.96,2,Sedang,Sedang
-P298,Wilayah A,11,PVC,150,1.93,3,Baik,Sedang
-P299,Wilayah B,2,Besi,150,4.52,3,Baik,Sedang
-P300,Wilayah D,27,Besi,200,4.02,1,Buruk,Tinggi
-P301,Wilayah D,17,Besi,150,4.58,3,Baik,Tinggi
-P302,Wilayah C,17,Besi,75,2.25,2,Baik,Sedang
-P303,Wilayah D,16,HDPE,150,2.5,0,Buruk,Sedang
-P304,Wilayah A,5,Besi,100,4.17,2,Baik,Rendah
-P305,Wilayah E,19,HDPE,75,2.77,2,Baik,Sedang
-P306,Wilayah A,15,HDPE,100,4.39,4,Sedang,Tinggi
-P307,Wilayah C,5,PVC,150,2.81,2,Sedang,Rendah
-P308,Wilayah A,25,PVC,75,3.61,3,Sedang,Tinggi
-P309,Wilayah E,2,PVC,100,4.31,4,Sedang,Sedang
-P310,Wilayah D,29,HDPE,75,2.65,4,Baik,Sedang
-P311,Wilayah E,20,HDPE,100,3.58,4,Buruk,Tinggi
-P312,Wilayah A,16,HDPE,200,2.55,0,Baik,Rendah
-P313,Wilayah A,14,HDPE,100,4.29,5,Buruk,Tinggi
-P314,Wilayah A,20,Besi,100,4.88,4,Sedang,Tinggi
-P315,Wilayah D,19,Besi,75,3.33,5,Sedang,Tinggi
-P316,Wilayah A,5,HDPE,75,1.61,5,Baik,Rendah
-P317,Wilayah E,15,Besi,150,2.03,5,Baik,Sedang
-P318,Wilayah B,25,HDPE,150,4.55,5,Sedang,Tinggi
-P319,Wilayah D,17,PVC,200,2.64,5,Sedang,Tinggi
-P320,Wilayah C,11,PVC,150,4.69,2,Sedang,Sedang
-P321,Wilayah B,20,Besi,75,4.85,2,Sedang,Tinggi
-P322,Wilayah C,10,Besi,75,3.92,3,Baik,Sedang
-P323,Wilayah D,18,HDPE,100,2.51,4,Sedang,Tinggi
-P324,Wilayah C,29,Besi,100,4.84,1,Baik,Sedang
-P325,Wilayah D,23,PVC,100,4.73,5,Baik,Tinggi
-P326,Wilayah B,7,PVC,200,2.45,4,Sedang,Sedang
-P327,Wilayah E,4,HDPE,200,2.34,0,Sedang,Rendah
-P328,Wilayah D,8,HDPE,75,1.68,3,Baik,Sedang
-P329,Wilayah B,4,HDPE,75,1.52,4,Buruk,Sedang
-P330,Wilayah C,14,HDPE,150,3.17,1,Buruk,Sedang
-P331,Wilayah B,11,Besi,50,4.68,0,Sedang,Sedang
-P332,Wilayah B,18,HDPE,50,4.7,1,Sedang,Tinggi
-P333,Wilayah C,30,PVC,150,4.26,1,Buruk,Tinggi
-P334,Wilayah C,29,PVC,50,2.54,4,Baik,Sedang
-P335,Wilayah D,10,Besi,200,3.34,1,Buruk,Sedang
-P336,Wilayah C,9,PVC,50,2.66,5,Sedang,Sedang
-P337,Wilayah B,23,PVC,50,4.08,2,Sedang,Tinggi
-P338,Wilayah D,6,HDPE,150,4.39,4,Baik,Sedang
-P339,Wilayah B,22,PVC,75,4.94,3,Baik,Tinggi
-P340,Wilayah C,1,Besi,150,2.32,2,Buruk,Sedang
-P341,Wilayah B,19,HDPE,200,1.54,5,Baik,Sedang
-P342,Wilayah E,2,HDPE,50,3.13,1,Sedang,Rendah
-P343,Wilayah C,30,HDPE,100,3.92,5,Buruk,Tinggi
-P344,Wilayah D,12,HDPE,75,2.27,1,Sedang,Sedang
-P345,Wilayah E,24,HDPE,100,2.96,4,Buruk,Tinggi
-P346,Wilayah A,26,HDPE,75,4.17,5,Buruk,Tinggi
-P347,Wilayah A,17,Besi,200,3.96,0,Buruk,Sedang
-P348,Wilayah C,2,HDPE,200,2.21,4,Baik,Rendah
-P349,Wilayah D,28,HDPE,150,1.91,1,Sedang,Sedang
-P350,Wilayah D,3,HDPE,150,4.33,3,Baik,Sedang
-P351,Wilayah A,15,HDPE,50,3.46,5,Buruk,Tinggi
-P352,Wilayah D,13,Besi,50,4.11,4,Baik,Sedang
-P353,Wilayah A,12,HDPE,50,3.39,0,Buruk,Sedang
-P354,Wilayah D,30,Besi,50,2.5,1,Buruk,Tinggi
-P355,Wilayah E,12,Besi,150,4.54,3,Baik,Sedang
-P356,Wilayah B,5,HDPE,100,1.92,4,Baik,Rendah
-P357,Wilayah E,24,PVC,50,4.15,2,Sedang,Tinggi
-P358,Wilayah B,14,HDPE,150,4.38,1,Sedang,Sedang
-P359,Wilayah A,9,PVC,50,1.61,5,Sedang,Sedang
-P360,Wilayah A,8,PVC,50,1.85,0,Sedang,Rendah
-P361,Wilayah A,8,HDPE,50,2.91,1,Sedang,Sedang
-P362,Wilayah E,5,HDPE,100,2.32,5,Sedang,Sedang
-P363,Wilayah E,20,HDPE,100,2.33,1,Buruk,Tinggi
-P364,Wilayah B,8,Besi,100,2.46,4,Buruk,Tinggi
-P365,Wilayah D,21,HDPE,150,3.45,0,Buruk,Sedang
-P366,Wilayah D,26,HDPE,100,3.94,3,Baik,Sedang
-P367,Wilayah B,6,HDPE,150,2.34,1,Baik,Rendah
-P368,Wilayah B,26,Besi,50,3.47,3,Sedang,Tinggi
-P369,Wilayah D,13,PVC,100,2.21,5,Baik,Sedang
-P370,Wilayah D,28,Besi,50,3.37,1,Baik,Sedang
-P371,Wilayah E,22,HDPE,200,1.64,0,Baik,Rendah
-P372,Wilayah C,24,HDPE,200,2.26,1,Buruk,Tinggi
-P373,Wilayah D,10,PVC,75,4.78,5,Baik,Sedang
-P374,Wilayah E,30,PVC,200,3.96,3,Buruk,Tinggi
-P375,Wilayah C,11,Besi,150,3.13,5,Baik,Sedang
-P376,Wilayah C,12,HDPE,150,3.13,5,Sedang,Sedang
-P377,Wilayah B,30,PVC,100,2.6,0,Sedang,Sedang
-P378,Wilayah D,24,PVC,50,2.41,4,Sedang,Tinggi
-P379,Wilayah B,10,PVC,75,2.65,3,Sedang,Sedang
-P380,Wilayah D,16,HDPE,100,2.4,3,Buruk,Tinggi
-P381,Wilayah B,15,PVC,100,2.09,5,Sedang,Tinggi
-P382,Wilayah A,30,HDPE,50,3.33,0,Buruk,Sedang
-P383,Wilayah B,25,PVC,150,1.98,5,Baik,Sedang
-P384,Wilayah E,1,PVC,200,3.1,0,Sedang,Rendah
-P385,Wilayah A,30,Besi,150,1.56,4,Sedang,Tinggi
-P386,Wilayah D,1,HDPE,100,3.38,2,Baik,Rendah
-P387,Wilayah B,26,PVC,50,4.71,4,Baik,Tinggi
-P388,Wilayah A,20,HDPE,100,4.35,2,Buruk,Tinggi
-P389,Wilayah A,12,Besi,150,3.48,5,Baik,Sedang
-P390,Wilayah D,21,HDPE,50,1.83,3,Baik,Sedang
-P391,Wilayah D,2,HDPE,50,3.96,0,Sedang,Rendah
-P392,Wilayah A,21,Besi,200,4.92,0,Buruk,Tinggi
-P393,Wilayah C,8,PVC,200,3.16,0,Buruk,Sedang
-P394,Wilayah C,29,HDPE,200,3.8,1,Buruk,Tinggi
-P395,Wilayah A,1,PVC,200,2.0,5,Buruk,Sedang
-P396,Wilayah E,10,PVC,200,2.34,3,Sedang,Sedang
-P397,Wilayah E,11,Besi,75,4.27,5,Sedang,Tinggi
-P398,Wilayah C,24,Besi,50,1.84,1,Buruk,Tinggi
-P399,Wilayah C,20,HDPE,200,2.89,2,Baik,Sedang
-P400,Wilayah D,26,Besi,150,2.3,4,Buruk,Tinggi
-P401,Wilayah C,6,HDPE,200,3.81,0,Buruk,Rendah
-P402,Wilayah B,26,PVC,50,1.79,1,Baik,Sedang
-P403,Wilayah C,24,Besi,100,2.76,0,Baik,Rendah
-P404,Wilayah D,15,Besi,100,1.86,0,Baik,Rendah
-P405,Wilayah E,18,HDPE,200,2.93,0,Baik,Rendah
-P406,Wilayah D,3,HDPE,200,4.25,3,Baik,Sedang
-P407,Wilayah B,13,PVC,200,4.67,1,Sedang,Sedang
-P408,Wilayah B,22,Besi,75,1.99,2,Baik,Sedang
-P409,Wilayah A,3,PVC,150,2.47,2,Sedang,Rendah
-P410,Wilayah B,12,Besi,75,4.02,3,Sedang,Tinggi
-P411,Wilayah E,15,PVC,75,2.57,3,Baik,Sedang
-P412,Wilayah B,13,Besi,150,2.67,5,Buruk,Tinggi
-P413,Wilayah B,10,Besi,200,4.82,1,Sedang,Sedang
-P414,Wilayah E,13,Besi,100,4.07,5,Sedang,Tinggi
-P415,Wilayah E,26,PVC,100,2.82,3,Baik,Sedang
-P416,Wilayah D,7,HDPE,200,2.13,4,Baik,Rendah
-P417,Wilayah D,23,PVC,150,4.29,5,Baik,Tinggi
-P418,Wilayah B,22,Besi,75,3.72,1,Baik,Sedang
-P419,Wilayah D,23,Besi,150,1.76,4,Sedang,Tinggi
-P420,Wilayah E,18,HDPE,150,3.4,2,Sedang,Sedang
-P421,Wilayah C,20,HDPE,50,1.88,1,Sedang,Sedang
-P422,Wilayah D,6,HDPE,200,1.66,5,Sedang,Sedang
-P423,Wilayah E,25,Besi,150,1.87,0,Baik,Rendah
-P424,Wilayah C,24,HDPE,200,3.53,4,Baik,Sedang
-P425,Wilayah A,13,Besi,200,3.92,1,Baik,Rendah
-P426,Wilayah B,16,PVC,100,2.96,0,Baik,Rendah
-P427,Wilayah C,12,Besi,100,3.09,1,Sedang,Sedang
-P428,Wilayah C,16,PVC,150,4.03,3,Baik,Tinggi
-P429,Wilayah B,2,HDPE,50,1.58,2,Sedang,Rendah
-P430,Wilayah E,30,HDPE,75,3.31,4,Baik,Sedang
-P431,Wilayah D,14,Besi,75,4.29,5,Baik,Sedang
-P432,Wilayah D,13,PVC,200,4.59,3,Sedang,Tinggi
-P433,Wilayah A,1,HDPE,75,2.22,5,Buruk,Sedang
-P434,Wilayah A,19,PVC,200,2.15,2,Baik,Sedang
-P435,Wilayah D,9,HDPE,150,3.35,5,Baik,Sedang
-P436,Wilayah E,20,Besi,200,1.9,2,Buruk,Tinggi
-P437,Wilayah B,6,HDPE,100,4.72,4,Baik,Sedang
-P438,Wilayah B,11,PVC,75,2.57,1,Baik,Rendah
-P439,Wilayah B,17,Besi,150,3.59,4,Baik,Sedang
-P440,Wilayah B,16,HDPE,200,3.93,5,Buruk,Tinggi
-P441,Wilayah D,18,PVC,150,2.51,1,Baik,Sedang
-P442,Wilayah D,20,PVC,100,4.83,3,Baik,Tinggi
-P443,Wilayah D,18,HDPE,150,2.93,3,Sedang,Tinggi
-P444,Wilayah C,16,PVC,50,3.48,1,Baik,Sedang
-P445,Wilayah D,8,HDPE,100,2.09,3,Sedang,Sedang
-P446,Wilayah C,18,HDPE,50,3.5,2,Buruk,Tinggi
-P447,Wilayah B,18,PVC,150,3.41,3,Baik,Sedang
-P448,Wilayah A,10,PVC,150,2.42,0,Sedang,Rendah
-P449,Wilayah E,25,PVC,75,4.34,4,Sedang,Tinggi
-P450,Wilayah A,21,Besi,75,3.66,1,Buruk,Tinggi
-P451,Wilayah C,19,Besi,200,2.48,4,Baik,Sedang
-P452,Wilayah A,10,HDPE,100,4.83,4,Buruk,Tinggi
-P453,Wilayah B,5,Besi,50,4.97,5,Baik,Sedang
-P454,Wilayah B,8,PVC,100,4.4,5,Baik,Sedang
-P455,Wilayah A,19,HDPE,100,3.7,3,Sedang,Tinggi
-P456,Wilayah D,13,HDPE,100,3.93,2,Sedang,Sedang
-P457,Wilayah D,11,HDPE,50,4.54,5,Baik,Sedang
-P458,Wilayah D,21,HDPE,100,4.48,4,Baik,Tinggi
-P459,Wilayah E,27,PVC,150,2.44,2,Baik,Sedang
-P460,Wilayah A,5,HDPE,150,4.26,5,Buruk,Tinggi
-P461,Wilayah A,4,HDPE,150,1.56,1,Sedang,Rendah
-P462,Wilayah C,14,PVC,75,4.59,2,Baik,Sedang
-P463,Wilayah B,3,HDPE,100,2.38,2,Sedang,Rendah
-P464,Wilayah A,2,Besi,100,4.04,1,Sedang,Sedang
-P465,Wilayah B,23,PVC,50,2.25,0,Baik,Rendah
-P466,Wilayah A,17,HDPE,150,1.53,5,Baik,Sedang
-P467,Wilayah A,28,Besi,75,3.17,1,Baik,Sedang
-P468,Wilayah B,4,Besi,100,4.58,1,Baik,Rendah
-P469,Wilayah B,21,HDPE,75,1.74,4,Baik,Sedang
-P470,Wilayah E,15,Besi,75,3.7,1,Buruk,Tinggi
-P471,Wilayah A,22,Besi,75,1.8,0,Baik,Rendah
-P472,Wilayah B,19,HDPE,150,2.73,3,Baik,Sedang
-P473,Wilayah E,8,Besi,50,2.37,4,Sedang,Sedang
-P474,Wilayah B,10,HDPE,50,4.47,5,Buruk,Tinggi
-P475,Wilayah A,17,HDPE,200,2.16,3,Baik,Sedang
-P476,Wilayah E,26,PVC,150,2.85,1,Sedang,Sedang
-P477,Wilayah E,3,HDPE,50,4.95,2,Baik,Rendah
-P478,Wilayah A,14,Besi,200,3.89,3,Buruk,Tinggi
-P479,Wilayah A,1,HDPE,50,1.55,1,Baik,Rendah
-P480,Wilayah D,26,Besi,200,2.5,5,Sedang,Tinggi
-P481,Wilayah B,14,HDPE,150,1.79,4,Sedang,Sedang
-P482,Wilayah B,9,PVC,100,1.78,1,Buruk,Sedang
-P483,Wilayah A,18,Besi,150,3.55,5,Sedang,Tinggi
-P484,Wilayah A,10,HDPE,150,4.05,1,Baik,Sedang
-P485,Wilayah B,30,Besi,50,3.09,4,Baik,Sedang
-P486,Wilayah C,4,PVC,75,3.96,1,Sedang,Rendah
-P487,Wilayah C,17,HDPE,100,2.08,1,Sedang,Sedang
-P488,Wilayah A,24,PVC,50,2.67,3,Baik,Sedang
-P489,Wilayah C,9,HDPE,200,3.7,3,Sedang,Sedang
-P490,Wilayah A,2,Besi,200,2.08,1,Baik,Rendah
-P491,Wilayah A,29,HDPE,50,2.3,4,Baik,Sedang
-P492,Wilayah A,8,PVC,150,2.77,1,Baik,Rendah
-P493,Wilayah C,18,HDPE,150,2.29,1,Sedang,Sedang
-P494,Wilayah A,9,PVC,200,2.8,4,Sedang,Sedang
-P495,Wilayah D,6,PVC,200,4.93,3,Baik,Sedang
-P496,Wilayah C,28,Besi,100,2.65,4,Sedang,Tinggi
-P497,Wilayah D,7,Besi,200,4.25,5,Sedang,Sedang
-P498,Wilayah E,12,HDPE,150,4.99,1,Sedang,Sedang
-P499,Wilayah E,25,PVC,75,1.52,3,Baik,Sedang
-P500,Wilayah D,12,HDPE,50,4.83,0,Buruk,Sedang
+id_pipa,wilayah,usia_pipa,jenis_pipa,diameter_mm,tekanan_bar,riwayat_kebocoran,kondisi_pipa,risiko_kebocoran,hasil_prediksi_terakhir,tanggal_prediksi,status_penanganan,petugas_penanganan,tanggal_penanganan,catatan_penanganan
+P001,Wilayah c,21,PVC,50,4.1,1,Baik,Sedang,Sedang,2026-11-01 20:35,Selesai ditangani,oom,2026-11-02,selesai
+P002,Wilayah A,22,HDPE,200,1.8,3,Baik,Sedang,,,Belum ditangani,,,
+P003,Wilayah E,7,PVC,200,3.61,4,Baik,Rendah,,,Belum ditangani,,,
+P004,Wilayah B,14,PVC,150,3.56,0,Buruk,Sedang,,,Belum ditangani,,,
+P005,Wilayah C,23,Besi,100,2.47,1,Buruk,Tinggi,,,Belum ditangani,,,
+P007,Wilayah C,24,Besi,200,1.94,3,Baik,Sedang,,,Belum ditangani,,,
+P008,Wilayah A,27,HDPE,200,4.6,2,Sedang,Tinggi,,,Belum ditangani,,,
+P009,Wilayah A,2,HDPE,75,4.21,0,Buruk,Sedang,,,Belum ditangani,,,
+P010,Wilayah C,13,Besi,150,3.72,2,Baik,Rendah,,,Belum ditangani,,,
+P011,Wilayah E,7,HDPE,100,3.96,5,Sedang,Sedang,,,Belum ditangani,,,
+P012,Wilayah C,21,PVC,200,4.05,1,Sedang,Tinggi,,,Belum ditangani,,,
+P013,Wilayah A,30,HDPE,200,2.27,2,Buruk,Tinggi,,,Belum ditangani,,,
+P014,Wilayah E,8,PVC,100,2.9,0,Baik,Rendah,,,Belum ditangani,,,
+P015,Wilayah D,29,HDPE,100,2.24,3,Baik,Sedang,,,Belum ditangani,,,
+P016,Wilayah E,5,Besi,75,2.36,4,Sedang,Sedang,,,Belum ditangani,,,
+P017,Wilayah A,14,HDPE,150,2.77,1,Sedang,Sedang,,,Belum ditangani,,,
+P018,Wilayah D,25,PVC,50,2.03,1,Buruk,Tinggi,,,Belum ditangani,,,
+P019,Wilayah E,20,PVC,150,2.84,3,Sedang,Tinggi,,,Belum ditangani,,,
+P020,Wilayah C,28,PVC,50,3.89,4,Buruk,Tinggi,,,Belum ditangani,,,
+P021,Wilayah C,4,Besi,150,2.05,0,Buruk,Rendah,,,Belum ditangani,,,
+P022,Wilayah E,17,PVC,200,4.69,5,Baik,Tinggi,,,Belum ditangani,,,
+P023,Wilayah E,20,PVC,75,2.81,1,Sedang,Sedang,,,Belum ditangani,,,
+P024,Wilayah C,30,PVC,200,2.63,0,Baik,Rendah,,,Belum ditangani,,,
+P025,Wilayah A,29,Besi,75,1.7,4,Buruk,Tinggi,,,Belum ditangani,,,
+P026,Wilayah B,24,Besi,50,4.92,4,Buruk,Tinggi,,,Belum ditangani,,,
+P027,Wilayah D,22,Besi,200,2.08,4,Buruk,Tinggi,,,Belum ditangani,,,
+P028,Wilayah C,7,HDPE,75,4.0,3,Buruk,Tinggi,,,Belum ditangani,,,
+P029,Wilayah A,15,HDPE,150,1.92,1,Baik,Sedang,,,Belum ditangani,,,
+P030,Wilayah A,19,HDPE,75,3.56,0,Baik,Rendah,,,Belum ditangani,,,
+P031,Wilayah C,8,PVC,50,4.51,0,Sedang,Sedang,,,Belum ditangani,,,
+P032,Wilayah E,22,Besi,75,3.39,5,Buruk,Tinggi,,,Belum ditangani,,,
+P033,Wilayah A,19,Besi,75,4.25,3,Baik,Tinggi,,,Belum ditangani,,,
+P034,Wilayah A,22,Besi,100,2.98,3,Buruk,Tinggi,,,Belum ditangani,,,
+P035,Wilayah A,22,HDPE,50,1.71,5,Baik,Sedang,,,Belum ditangani,,,
+P036,Wilayah C,8,PVC,75,3.38,1,Sedang,Sedang,,,Belum ditangani,,,
+P037,Wilayah E,15,PVC,50,3.05,4,Baik,Sedang,,,Belum ditangani,,,
+P038,Wilayah D,27,PVC,50,4.74,1,Baik,Sedang,,,Belum ditangani,,,
+P039,Wilayah D,16,PVC,150,4.66,1,Baik,Sedang,,,Belum ditangani,,,
+P040,Wilayah E,9,Besi,100,2.98,5,Buruk,Tinggi,,,Belum ditangani,,,
+P041,Wilayah A,22,HDPE,150,2.04,2,Baik,Sedang,,,Belum ditangani,,,
+P042,Wilayah E,19,HDPE,200,1.71,2,Baik,Sedang,,,Belum ditangani,,,
+P043,Wilayah B,16,HDPE,200,2.05,4,Baik,Sedang,,,Belum ditangani,,,
+P044,Wilayah E,3,HDPE,50,3.86,1,Sedang,Rendah,,,Belum ditangani,,,
+P045,Wilayah E,8,HDPE,200,1.64,0,Sedang,Rendah,,,Belum ditangani,,,
+P046,Wilayah C,19,HDPE,100,4.77,1,Sedang,Tinggi,,,Belum ditangani,,,
+P047,Wilayah C,8,Besi,150,1.96,5,Baik,Sedang,,,Belum ditangani,,,
+P048,Wilayah A,30,PVC,50,3.1,4,Buruk,Tinggi,,,Belum ditangani,,,
+P049,Wilayah B,18,PVC,200,2.43,2,Buruk,Tinggi,,,Belum ditangani,,,
+P050,Wilayah E,12,Besi,75,3.03,4,Sedang,Sedang,,,Belum ditangani,,,
+P051,Wilayah A,26,HDPE,200,1.53,4,Baik,Sedang,,,Belum ditangani,,,
+P052,Wilayah B,29,PVC,100,1.9,0,Sedang,Sedang,,,Belum ditangani,,,
+P053,Wilayah C,9,Besi,200,2.24,2,Baik,Rendah,,,Belum ditangani,,,
+P054,Wilayah D,17,Besi,100,4.67,0,Baik,Sedang,,,Belum ditangani,,,
+P055,Wilayah C,27,Besi,50,1.51,1,Sedang,Sedang,,,Belum ditangani,,,
+P056,Wilayah A,6,HDPE,150,3.43,3,Sedang,Sedang,,,Belum ditangani,,,
+P057,Wilayah B,3,HDPE,75,3.41,2,Sedang,Rendah,,,Belum ditangani,,,
+P058,Wilayah B,14,PVC,50,2.58,0,Buruk,Sedang,,,Belum ditangani,,,
+P059,Wilayah D,22,PVC,50,2.74,4,Buruk,Tinggi,,,Belum ditangani,,,
+P060,Wilayah B,20,HDPE,75,4.74,1,Buruk,Tinggi,,,Belum ditangani,,,
+P061,Wilayah D,29,Besi,50,2.13,2,Buruk,Tinggi,,,Belum ditangani,,,
+P062,Wilayah A,26,HDPE,75,2.43,5,Baik,Sedang,,,Belum ditangani,,,
+P063,Wilayah B,28,Besi,75,2.2,3,Baik,Sedang,,,Belum ditangani,,,
+P064,Wilayah C,8,PVC,75,2.89,2,Buruk,Sedang,,,Belum ditangani,,,
+P065,Wilayah A,12,HDPE,200,2.9,4,Baik,Sedang,,,Belum ditangani,,,
+P066,Wilayah E,4,Besi,75,3.53,2,Baik,Rendah,,,Belum ditangani,,,
+P067,Wilayah E,14,Besi,100,3.03,4,Baik,Sedang,,,Belum ditangani,,,
+P068,Wilayah E,7,Besi,50,3.98,0,Sedang,Rendah,,,Belum ditangani,,,
+P069,Wilayah C,22,HDPE,75,2.77,0,Buruk,Sedang,,,Belum ditangani,,,
+P070,Wilayah D,20,Besi,50,4.02,2,Sedang,Tinggi,,,Belum ditangani,,,
+P071,Wilayah D,11,Besi,100,3.44,1,Sedang,Sedang,,,Belum ditangani,,,
+P072,Wilayah A,22,HDPE,75,3.65,2,Sedang,Sedang,,,Belum ditangani,,,
+P073,Wilayah C,10,Besi,75,3.0,4,Sedang,Sedang,,,Belum ditangani,,,
+P074,Wilayah B,15,Besi,150,3.86,4,Sedang,Tinggi,,,Belum ditangani,,,
+P075,Wilayah A,22,PVC,100,3.3,5,Sedang,Tinggi,,,Belum ditangani,,,
+P076,Wilayah A,27,PVC,100,2.29,1,Baik,Sedang,,,Belum ditangani,,,
+P077,Wilayah E,8,Besi,200,4.47,0,Sedang,Sedang,,,Belum ditangani,,,
+P078,Wilayah A,7,HDPE,150,3.23,1,Baik,Rendah,,,Belum ditangani,,,
+P079,Wilayah A,29,PVC,150,2.27,5,Sedang,Tinggi,,,Belum ditangani,,,
+P080,Wilayah E,18,PVC,50,3.1,3,Sedang,Tinggi,,,Belum ditangani,,,
+P081,Wilayah D,20,Besi,150,3.64,5,Buruk,Tinggi,,,Belum ditangani,,,
+P082,Wilayah D,27,HDPE,150,4.64,5,Buruk,Tinggi,,,Belum ditangani,,,
+P083,Wilayah B,9,PVC,100,4.18,4,Sedang,Tinggi,,,Belum ditangani,,,
+P084,Wilayah C,9,Besi,50,4.0,1,Baik,Sedang,,,Belum ditangani,,,
+P085,Wilayah B,29,HDPE,50,1.98,1,Baik,Sedang,,,Belum ditangani,,,
+P086,Wilayah D,23,PVC,50,2.95,2,Sedang,Sedang,,,Belum ditangani,,,
+P087,Wilayah A,2,PVC,150,2.86,4,Buruk,Sedang,,,Belum ditangani,,,
+P088,Wilayah D,28,HDPE,150,3.17,2,Baik,Sedang,,,Belum ditangani,,,
+P089,Wilayah B,28,Besi,200,4.12,4,Buruk,Tinggi,,,Belum ditangani,,,
+P090,Wilayah D,16,PVC,100,3.03,0,Baik,Rendah,,,Belum ditangani,,,
+P091,Wilayah D,24,PVC,150,4.72,4,Sedang,Tinggi,,,Belum ditangani,,,
+P092,Wilayah D,19,HDPE,50,1.79,3,Baik,Sedang,,,Belum ditangani,,,
+P093,Wilayah C,6,PVC,100,2.83,1,Sedang,Rendah,,,Belum ditangani,,,
+P094,Wilayah A,25,Besi,100,4.13,3,Baik,Tinggi,,,Belum ditangani,,,
+P095,Wilayah A,16,PVC,200,1.68,2,Baik,Sedang,,,Belum ditangani,,,
+P096,Wilayah A,25,HDPE,50,4.14,1,Baik,Sedang,,,Belum ditangani,,,
+P097,Wilayah B,20,PVC,75,1.94,5,Baik,Sedang,,,Belum ditangani,,,
+P098,Wilayah A,15,HDPE,100,4.18,1,Sedang,Tinggi,,,Belum ditangani,,,
+P099,Wilayah E,25,PVC,100,1.88,0,Buruk,Sedang,,,Belum ditangani,,,
+P100,Wilayah B,22,Besi,150,4.8,1,Baik,Sedang,,,Belum ditangani,,,
+P101,Wilayah E,4,HDPE,100,4.48,4,Buruk,Tinggi,,,Belum ditangani,,,
+P102,Wilayah E,26,PVC,100,3.36,5,Baik,Sedang,,,Belum ditangani,,,
+P103,Wilayah C,21,Besi,50,4.47,3,Baik,Tinggi,,,Belum ditangani,,,
+P104,Wilayah C,21,Besi,75,3.02,5,Sedang,Tinggi,,,Belum ditangani,,,
+P105,Wilayah C,20,HDPE,150,3.13,5,Sedang,Tinggi,,,Belum ditangani,,,
+P106,Wilayah D,28,PVC,50,2.48,3,Baik,Sedang,,,Belum ditangani,,,
+P107,Wilayah B,19,HDPE,150,2.68,3,Buruk,Tinggi,,,Belum ditangani,,,
+P108,Wilayah E,16,PVC,100,4.29,2,Baik,Sedang,,,Belum ditangani,,,
+P109,Wilayah D,23,Besi,200,1.54,1,Baik,Sedang,,,Belum ditangani,,,
+P110,Wilayah D,16,HDPE,75,3.92,5,Sedang,Tinggi,,,Belum ditangani,,,
+P111,Wilayah C,26,PVC,50,2.53,3,Sedang,Tinggi,,,Belum ditangani,,,
+P112,Wilayah E,22,HDPE,100,3.16,4,Baik,Sedang,,,Belum ditangani,,,
+P113,Wilayah B,11,Besi,150,2.45,2,Baik,Rendah,,,Belum ditangani,,,
+P114,Wilayah B,11,PVC,200,4.83,5,Baik,Sedang,,,Belum ditangani,,,
+P115,Wilayah A,24,Besi,100,4.04,4,Sedang,Tinggi,,,Belum ditangani,,,
+P116,Wilayah E,27,PVC,100,2.3,1,Baik,Sedang,,,Belum ditangani,,,
+P117,Wilayah B,5,Besi,50,4.91,4,Baik,Sedang,,,Belum ditangani,,,
+P118,Wilayah D,21,Besi,50,4.55,4,Baik,Tinggi,,,Belum ditangani,,,
+P119,Wilayah D,15,Besi,75,4.88,2,Buruk,Tinggi,,,Belum ditangani,,,
+P120,Wilayah A,4,PVC,150,3.22,4,Sedang,Sedang,,,Belum ditangani,,,
+P121,Wilayah A,5,PVC,200,4.82,0,Buruk,Sedang,,,Belum ditangani,,,
+P122,Wilayah E,18,Besi,200,3.59,4,Baik,Sedang,,,Belum ditangani,,,
+P123,Wilayah C,13,Besi,150,2.54,4,Buruk,Tinggi,,,Belum ditangani,,,
+P124,Wilayah B,19,HDPE,50,3.63,5,Baik,Sedang,,,Belum ditangani,,,
+P125,Wilayah E,21,PVC,100,3.81,1,Baik,Sedang,,,Belum ditangani,,,
+P126,Wilayah C,3,PVC,50,2.93,5,Sedang,Sedang,,,Belum ditangani,,,
+P127,Wilayah A,2,PVC,100,3.97,5,Buruk,Sedang,,,Belum ditangani,,,
+P128,Wilayah B,22,PVC,100,4.26,5,Sedang,Tinggi,,,Belum ditangani,,,
+P129,Wilayah B,14,PVC,200,2.29,1,Buruk,Sedang,,,Belum ditangani,,,
+P130,Wilayah E,3,PVC,75,4.27,4,Sedang,Sedang,,,Belum ditangani,,,
+P131,Wilayah D,30,Besi,150,1.94,5,Baik,Sedang,,,Belum ditangani,,,
+P132,Wilayah D,9,HDPE,200,3.23,0,Sedang,Rendah,,,Belum ditangani,,,
+P133,Wilayah E,24,Besi,200,2.38,0,Baik,Rendah,,,Belum ditangani,,,
+P134,Wilayah D,19,PVC,100,3.52,1,Sedang,Sedang,,,Belum ditangani,,,
+P135,Wilayah D,30,Besi,75,4.99,3,Sedang,Tinggi,,,Belum ditangani,,,
+P136,Wilayah B,3,Besi,100,2.93,2,Sedang,Rendah,,,Belum ditangani,,,
+P137,Wilayah E,11,Besi,150,2.51,3,Buruk,Tinggi,,,Belum ditangani,,,
+P138,Wilayah D,2,Besi,50,2.6,2,Baik,Rendah,,,Belum ditangani,,,
+P139,Wilayah A,28,HDPE,50,3.8,4,Sedang,Tinggi,,,Belum ditangani,,,
+P140,Wilayah A,7,HDPE,100,3.68,3,Sedang,Sedang,,,Belum ditangani,,,
+P141,Wilayah D,7,Besi,200,1.96,2,Sedang,Rendah,,,Belum ditangani,,,
+P142,Wilayah E,4,PVC,200,4.3,5,Baik,Sedang,,,Belum ditangani,,,
+P143,Wilayah A,1,HDPE,150,1.83,0,Sedang,Rendah,,,Belum ditangani,,,
+P144,Wilayah C,21,PVC,150,4.76,2,Sedang,Tinggi,,,Belum ditangani,,,
+P145,Wilayah B,14,Besi,150,2.35,4,Baik,Sedang,,,Belum ditangani,,,
+P146,Wilayah C,30,HDPE,200,4.11,1,Buruk,Tinggi,,,Belum ditangani,,,
+P147,Wilayah A,25,Besi,100,4.77,4,Baik,Tinggi,,,Belum ditangani,,,
+P148,Wilayah D,10,HDPE,100,4.43,4,Buruk,Tinggi,,,Belum ditangani,,,
+P149,Wilayah E,28,PVC,150,3.39,2,Baik,Sedang,,,Belum ditangani,,,
+P150,Wilayah D,13,Besi,100,4.54,5,Baik,Sedang,,,Belum ditangani,,,
+P151,Wilayah D,8,Besi,50,2.61,3,Sedang,Sedang,,,Belum ditangani,,,
+P152,Wilayah E,13,HDPE,75,3.23,0,Baik,Rendah,,,Belum ditangani,,,
+P153,Wilayah B,11,PVC,150,1.85,3,Baik,Sedang,,,Belum ditangani,,,
+P154,Wilayah D,14,HDPE,75,1.76,2,Baik,Rendah,,,Belum ditangani,,,
+P155,Wilayah C,21,PVC,100,4.48,4,Baik,Tinggi,,,Belum ditangani,,,
+P156,Wilayah B,21,HDPE,150,4.55,0,Sedang,Sedang,,,Belum ditangani,,,
+P157,Wilayah A,21,HDPE,100,4.99,5,Baik,Tinggi,,,Belum ditangani,,,
+P158,Wilayah A,25,HDPE,50,3.05,5,Baik,Sedang,,,Belum ditangani,,,
+P159,Wilayah B,2,Besi,50,2.53,2,Sedang,Rendah,,,Belum ditangani,,,
+P160,Wilayah A,17,Besi,200,3.89,1,Baik,Sedang,,,Belum ditangani,,,
+P161,Wilayah B,20,Besi,200,3.89,3,Buruk,Tinggi,,,Belum ditangani,,,
+P162,Wilayah D,8,Besi,100,3.11,5,Baik,Sedang,,,Belum ditangani,,,
+P163,Wilayah E,29,Besi,200,2.05,3,Buruk,Tinggi,,,Belum ditangani,,,
+P164,Wilayah B,10,HDPE,150,3.92,3,Buruk,Tinggi,,,Belum ditangani,,,
+P165,Wilayah C,13,Besi,50,2.33,4,Baik,Sedang,,,Belum ditangani,,,
+P166,Wilayah A,23,Besi,50,4.92,5,Baik,Tinggi,,,Belum ditangani,,,
+P167,Wilayah C,19,HDPE,50,4.69,5,Sedang,Tinggi,,,Belum ditangani,,,
+P168,Wilayah E,25,PVC,200,4.31,1,Sedang,Tinggi,,,Belum ditangani,,,
+P169,Wilayah C,9,HDPE,75,3.7,5,Sedang,Sedang,,,Belum ditangani,,,
+P170,Wilayah C,26,Besi,50,3.53,5,Baik,Sedang,,,Belum ditangani,,,
+P171,Wilayah C,11,HDPE,150,2.11,1,Buruk,Sedang,,,Belum ditangani,,,
+P172,Wilayah D,17,HDPE,100,4.41,2,Buruk,Tinggi,,,Belum ditangani,,,
+P173,Wilayah B,26,Besi,100,4.31,3,Buruk,Tinggi,,,Belum ditangani,,,
+P174,Wilayah D,25,PVC,150,4.89,4,Baik,Tinggi,,,Belum ditangani,,,
+P175,Wilayah C,1,Besi,200,1.93,2,Sedang,Rendah,,,Belum ditangani,,,
+P176,Wilayah E,19,Besi,100,1.88,1,Sedang,Sedang,,,Belum ditangani,,,
+P177,Wilayah D,29,HDPE,100,4.7,1,Sedang,Tinggi,,,Belum ditangani,,,
+P178,Wilayah A,30,HDPE,100,3.77,0,Baik,Rendah,,,Belum ditangani,,,
+P179,Wilayah D,10,Besi,50,1.84,4,Baik,Sedang,,,Belum ditangani,,,
+P180,Wilayah D,12,HDPE,200,2.97,5,Sedang,Sedang,,,Belum ditangani,,,
+P181,Wilayah C,21,PVC,150,3.65,2,Baik,Sedang,,,Belum ditangani,,,
+P182,Wilayah C,7,Besi,150,4.83,2,Baik,Rendah,,,Belum ditangani,,,
+P183,Wilayah A,18,HDPE,100,1.71,2,Baik,Sedang,,,Belum ditangani,,,
+P184,Wilayah A,28,Besi,50,3.82,5,Sedang,Tinggi,,,Belum ditangani,,,
+P185,Wilayah E,2,Besi,75,4.96,4,Baik,Sedang,,,Belum ditangani,,,
+P186,Wilayah B,7,HDPE,75,4.35,1,Baik,Rendah,,,Belum ditangani,,,
+P187,Wilayah E,26,HDPE,50,2.47,1,Buruk,Tinggi,,,Belum ditangani,,,
+P188,Wilayah C,9,PVC,50,3.81,0,Baik,Rendah,,,Belum ditangani,,,
+P189,Wilayah B,26,PVC,200,2.63,1,Baik,Sedang,,,Belum ditangani,,,
+P190,Wilayah C,24,Besi,200,1.9,0,Sedang,Sedang,,,Belum ditangani,,,
+P191,Wilayah A,17,HDPE,50,3.08,1,Buruk,Tinggi,,,Belum ditangani,,,
+P192,Wilayah A,24,HDPE,200,2.56,5,Buruk,Tinggi,,,Belum ditangani,,,
+P193,Wilayah D,16,Besi,150,3.9,3,Sedang,Tinggi,,,Belum ditangani,,,
+P194,Wilayah E,3,PVC,100,3.63,0,Baik,Rendah,,,Belum ditangani,,,
+P195,Wilayah E,21,HDPE,200,3.99,3,Buruk,Tinggi,,,Belum ditangani,,,
+P196,Wilayah A,10,Besi,200,3.62,0,Buruk,Sedang,,,Belum ditangani,,,
+P197,Wilayah B,28,HDPE,200,4.02,1,Sedang,Tinggi,,,Belum ditangani,,,
+P198,Wilayah D,14,Besi,150,2.9,5,Baik,Sedang,,,Belum ditangani,,,
+P199,Wilayah D,11,HDPE,100,2.81,1,Sedang,Sedang,,,Belum ditangani,,,
+P200,Wilayah C,3,PVC,50,1.83,0,Sedang,Rendah,,,Belum ditangani,,,
+P201,Wilayah A,26,PVC,200,1.71,4,Sedang,Tinggi,,,Belum ditangani,,,
+P202,Wilayah C,14,Besi,150,4.54,5,Baik,Sedang,,,Belum ditangani,,,
+P203,Wilayah D,20,Besi,100,1.86,4,Baik,Sedang,,,Belum ditangani,,,
+P204,Wilayah C,8,PVC,100,4.46,2,Baik,Sedang,,,Belum ditangani,,,
+P205,Wilayah E,19,PVC,150,4.46,4,Sedang,Tinggi,,,Belum ditangani,,,
+P206,Wilayah C,1,HDPE,100,1.6,2,Sedang,Rendah,,,Belum ditangani,,,
+P207,Wilayah D,30,Besi,100,1.52,1,Sedang,Sedang,,,Belum ditangani,,,
+P208,Wilayah D,3,PVC,50,1.82,4,Baik,Rendah,,,Belum ditangani,,,
+P209,Wilayah E,15,Besi,75,2.8,5,Baik,Sedang,,,Belum ditangani,,,
+P210,Wilayah A,20,PVC,50,2.04,4,Baik,Sedang,,,Belum ditangani,,,
+P211,Wilayah B,9,Besi,150,3.2,3,Sedang,Sedang,,,Belum ditangani,,,
+P212,Wilayah E,25,HDPE,50,2.71,0,Baik,Rendah,,,Belum ditangani,,,
+P213,Wilayah A,16,HDPE,100,1.66,3,Buruk,Tinggi,,,Belum ditangani,,,
+P214,Wilayah C,1,PVC,100,4.81,1,Buruk,Sedang,,,Belum ditangani,,,
+P215,Wilayah D,11,PVC,50,3.24,3,Baik,Sedang,,,Belum ditangani,,,
+P216,Wilayah A,18,HDPE,75,3.25,5,Buruk,Tinggi,,,Belum ditangani,,,
+P217,Wilayah C,13,HDPE,50,3.03,3,Buruk,Tinggi,,,Belum ditangani,,,
+P218,Wilayah A,19,Besi,200,2.92,5,Sedang,Tinggi,,,Belum ditangani,,,
+P219,Wilayah C,13,PVC,100,2.1,4,Sedang,Sedang,,,Belum ditangani,,,
+P220,Wilayah A,3,Besi,50,2.35,4,Sedang,Sedang,,,Belum ditangani,,,
+P221,Wilayah A,13,Besi,100,2.28,1,Baik,Rendah,,,Belum ditangani,,,
+P222,Wilayah B,17,HDPE,75,4.67,2,Baik,Sedang,,,Belum ditangani,,,
+P223,Wilayah A,8,PVC,75,2.4,1,Sedang,Sedang,,,Belum ditangani,,,
+P224,Wilayah D,6,HDPE,150,3.12,4,Buruk,Sedang,,,Belum ditangani,,,
+P225,Wilayah D,22,HDPE,200,2.63,5,Baik,Sedang,,,Belum ditangani,,,
+P226,Wilayah C,3,Besi,150,3.71,2,Sedang,Rendah,,,Belum ditangani,,,
+P227,Wilayah C,17,PVC,100,3.12,0,Baik,Rendah,,,Belum ditangani,,,
+P228,Wilayah E,3,HDPE,50,3.65,4,Baik,Rendah,,,Belum ditangani,,,
+P229,Wilayah C,18,HDPE,50,3.07,4,Sedang,Tinggi,,,Belum ditangani,,,
+P230,Wilayah C,20,Besi,200,2.03,0,Sedang,Sedang,,,Belum ditangani,,,
+P231,Wilayah D,23,PVC,200,3.76,0,Baik,Rendah,,,Belum ditangani,,,
+P232,Wilayah C,15,HDPE,200,3.63,2,Baik,Sedang,,,Belum ditangani,,,
+P233,Wilayah C,13,Besi,100,3.88,0,Buruk,Sedang,,,Belum ditangani,,,
+P234,Wilayah E,3,Besi,50,3.45,3,Baik,Rendah,,,Belum ditangani,,,
+P235,Wilayah C,28,PVC,100,1.79,5,Baik,Sedang,,,Belum ditangani,,,
+P236,Wilayah C,10,HDPE,150,1.95,5,Buruk,Tinggi,,,Belum ditangani,,,
+P237,Wilayah E,18,Besi,100,4.35,5,Sedang,Tinggi,,,Belum ditangani,,,
+P238,Wilayah B,3,HDPE,150,3.28,0,Baik,Rendah,,,Belum ditangani,,,
+P239,Wilayah C,7,Besi,150,2.17,1,Baik,Rendah,,,Belum ditangani,,,
+P240,Wilayah A,28,PVC,200,4.2,5,Buruk,Tinggi,,,Belum ditangani,,,
+P241,Wilayah B,22,Besi,200,1.96,3,Baik,Sedang,,,Belum ditangani,,,
+P242,Wilayah A,27,HDPE,200,4.33,1,Sedang,Tinggi,,,Belum ditangani,,,
+P243,Wilayah D,14,Besi,75,4.89,4,Baik,Sedang,,,Belum ditangani,,,
+P244,Wilayah B,8,HDPE,75,2.58,3,Buruk,Tinggi,,,Belum ditangani,,,
+P245,Wilayah D,12,HDPE,200,4.95,3,Buruk,Tinggi,,,Belum ditangani,,,
+P246,Wilayah B,17,HDPE,150,4.88,1,Buruk,Tinggi,,,Belum ditangani,,,
+P247,Wilayah A,28,Besi,50,3.74,2,Sedang,Sedang,,,Belum ditangani,,,
+P248,Wilayah E,23,HDPE,50,2.5,1,Baik,Sedang,,,Belum ditangani,,,
+P249,Wilayah C,5,Besi,50,4.81,1,Buruk,Sedang,,,Belum ditangani,,,
+P250,Wilayah D,30,PVC,150,1.69,4,Baik,Sedang,,,Belum ditangani,,,
+P251,Wilayah C,3,Besi,75,1.6,0,Buruk,Rendah,,,Belum ditangani,,,
+P252,Wilayah B,26,PVC,75,1.63,3,Sedang,Tinggi,,,Belum ditangani,,,
+P253,Wilayah A,25,HDPE,150,3.07,0,Buruk,Sedang,,,Belum ditangani,,,
+P254,Wilayah D,9,PVC,75,3.42,5,Sedang,Sedang,,,Belum ditangani,,,
+P255,Wilayah E,4,Besi,75,2.55,0,Baik,Rendah,,,Belum ditangani,,,
+P256,Wilayah A,15,PVC,50,4.43,3,Sedang,Tinggi,,,Belum ditangani,,,
+P257,Wilayah A,21,HDPE,200,2.35,1,Baik,Sedang,,,Belum ditangani,,,
+P258,Wilayah A,20,Besi,75,3.5,1,Sedang,Sedang,,,Belum ditangani,,,
+P259,Wilayah E,17,Besi,50,4.84,4,Sedang,Tinggi,,,Belum ditangani,,,
+P260,Wilayah C,18,PVC,150,4.56,0,Sedang,Sedang,,,Belum ditangani,,,
+P261,Wilayah A,9,HDPE,50,2.75,0,Baik,Rendah,,,Belum ditangani,,,
+P262,Wilayah B,25,HDPE,100,1.97,2,Sedang,Sedang,,,Belum ditangani,,,
+P263,Wilayah B,27,HDPE,150,4.93,3,Sedang,Tinggi,,,Belum ditangani,,,
+P264,Wilayah B,3,HDPE,150,1.63,1,Baik,Rendah,,,Belum ditangani,,,
+P265,Wilayah E,29,PVC,100,4.77,4,Baik,Tinggi,,,Belum ditangani,,,
+P266,Wilayah A,16,Besi,50,4.14,1,Baik,Sedang,,,Belum ditangani,,,
+P267,Wilayah D,28,HDPE,100,2.46,2,Sedang,Sedang,,,Belum ditangani,,,
+P268,Wilayah D,24,Besi,150,2.69,1,Sedang,Sedang,,,Belum ditangani,,,
+P269,Wilayah D,12,HDPE,100,4.3,5,Sedang,Tinggi,,,Belum ditangani,,,
+P270,Wilayah C,20,PVC,200,2.53,0,Baik,Rendah,,,Belum ditangani,,,
+P271,Wilayah C,10,Besi,200,4.01,1,Sedang,Sedang,,,Belum ditangani,,,
+P272,Wilayah A,15,PVC,100,3.65,3,Baik,Sedang,,,Belum ditangani,,,
+P273,Wilayah A,3,HDPE,150,2.77,5,Sedang,Sedang,,,Belum ditangani,,,
+P274,Wilayah C,5,HDPE,150,1.62,0,Baik,Rendah,,,Belum ditangani,,,
+P275,Wilayah C,12,Besi,200,1.61,1,Sedang,Sedang,,,Belum ditangani,,,
+P276,Wilayah C,12,Besi,50,3.51,4,Baik,Sedang,,,Belum ditangani,,,
+P277,Wilayah D,21,Besi,75,4.86,0,Sedang,Sedang,,,Belum ditangani,,,
+P278,Wilayah B,17,Besi,200,1.91,2,Sedang,Sedang,,,Belum ditangani,,,
+P279,Wilayah D,20,Besi,150,2.2,1,Buruk,Tinggi,,,Belum ditangani,,,
+P280,Wilayah C,6,HDPE,150,4.99,5,Buruk,Tinggi,,,Belum ditangani,,,
+P281,Wilayah B,22,Besi,50,3.42,2,Buruk,Tinggi,,,Belum ditangani,,,
+P282,Wilayah B,23,HDPE,75,4.28,4,Baik,Tinggi,,,Belum ditangani,,,
+P283,Wilayah E,26,PVC,75,4.27,0,Baik,Sedang,,,Belum ditangani,,,
+P284,Wilayah D,12,Besi,200,1.95,0,Baik,Rendah,,,Belum ditangani,,,
+P285,Wilayah A,23,HDPE,150,3.34,3,Buruk,Tinggi,,,Belum ditangani,,,
+P286,Wilayah B,5,Besi,50,3.07,5,Sedang,Sedang,,,Belum ditangani,,,
+P287,Wilayah A,29,HDPE,200,2.14,1,Sedang,Sedang,,,Belum ditangani,,,
+P288,Wilayah B,27,PVC,200,2.04,1,Baik,Sedang,,,Belum ditangani,,,
+P289,Wilayah E,12,HDPE,100,4.46,2,Baik,Sedang,,,Belum ditangani,,,
+P290,Wilayah B,9,PVC,100,3.65,0,Sedang,Rendah,,,Belum ditangani,,,
+P291,Wilayah E,19,HDPE,75,2.1,4,Sedang,Tinggi,,,Belum ditangani,,,
+P292,Wilayah E,11,HDPE,50,4.39,0,Baik,Rendah,,,Belum ditangani,,,
+P293,Wilayah A,9,HDPE,75,4.18,3,Sedang,Tinggi,,,Belum ditangani,,,
+P294,Wilayah D,16,HDPE,200,2.51,2,Sedang,Sedang,,,Belum ditangani,,,
+P295,Wilayah D,10,Besi,50,3.91,1,Sedang,Sedang,,,Belum ditangani,,,
+P296,Wilayah C,15,PVC,100,3.62,2,Buruk,Tinggi,,,Belum ditangani,,,
+P297,Wilayah A,24,Besi,150,1.96,2,Sedang,Sedang,,,Belum ditangani,,,
+P298,Wilayah A,11,PVC,150,1.93,3,Baik,Sedang,,,Belum ditangani,,,
+P299,Wilayah B,2,Besi,150,4.52,3,Baik,Sedang,,,Belum ditangani,,,
+P300,Wilayah D,27,Besi,200,4.02,1,Buruk,Tinggi,,,Belum ditangani,,,
+P301,Wilayah D,17,Besi,150,4.58,3,Baik,Tinggi,,,Belum ditangani,,,
+P302,Wilayah C,17,Besi,75,2.25,2,Baik,Sedang,,,Belum ditangani,,,
+P303,Wilayah D,16,HDPE,150,2.5,0,Buruk,Sedang,,,Belum ditangani,,,
+P304,Wilayah A,5,Besi,100,4.17,2,Baik,Rendah,,,Belum ditangani,,,
+P305,Wilayah E,19,HDPE,75,2.77,2,Baik,Sedang,,,Belum ditangani,,,
+P306,Wilayah A,15,HDPE,100,4.39,4,Sedang,Tinggi,,,Belum ditangani,,,
+P307,Wilayah C,5,PVC,150,2.81,2,Sedang,Rendah,,,Belum ditangani,,,
+P308,Wilayah A,25,PVC,75,3.61,3,Sedang,Tinggi,,,Belum ditangani,,,
+P309,Wilayah E,2,PVC,100,4.31,4,Sedang,Sedang,,,Belum ditangani,,,
+P310,Wilayah D,29,HDPE,75,2.65,4,Baik,Sedang,,,Belum ditangani,,,
+P311,Wilayah E,20,HDPE,100,3.58,4,Buruk,Tinggi,,,Belum ditangani,,,
+P312,Wilayah A,16,HDPE,200,2.55,0,Baik,Rendah,,,Belum ditangani,,,
+P313,Wilayah A,14,HDPE,100,4.29,5,Buruk,Tinggi,,,Belum ditangani,,,
+P314,Wilayah A,20,Besi,100,4.88,4,Sedang,Tinggi,,,Belum ditangani,,,
+P315,Wilayah D,19,Besi,75,3.33,5,Sedang,Tinggi,,,Belum ditangani,,,
+P316,Wilayah A,5,HDPE,75,1.61,5,Baik,Rendah,,,Belum ditangani,,,
+P317,Wilayah E,15,Besi,150,2.03,5,Baik,Sedang,,,Belum ditangani,,,
+P318,Wilayah B,25,HDPE,150,4.55,5,Sedang,Tinggi,,,Belum ditangani,,,
+P319,Wilayah D,17,PVC,200,2.64,5,Sedang,Tinggi,,,Belum ditangani,,,
+P320,Wilayah C,11,PVC,150,4.69,2,Sedang,Sedang,,,Belum ditangani,,,
+P321,Wilayah B,20,Besi,75,4.85,2,Sedang,Tinggi,,,Belum ditangani,,,
+P322,Wilayah C,10,Besi,75,3.92,3,Baik,Sedang,,,Belum ditangani,,,
+P323,Wilayah D,18,HDPE,100,2.51,4,Sedang,Tinggi,,,Belum ditangani,,,
+P324,Wilayah C,29,Besi,100,4.84,1,Baik,Sedang,,,Belum ditangani,,,
+P325,Wilayah D,23,PVC,100,4.73,5,Baik,Tinggi,,,Belum ditangani,,,
+P326,Wilayah B,7,PVC,200,2.45,4,Sedang,Sedang,,,Belum ditangani,,,
+P327,Wilayah E,4,HDPE,200,2.34,0,Sedang,Rendah,,,Belum ditangani,,,
+P328,Wilayah D,8,HDPE,75,1.68,3,Baik,Sedang,,,Belum ditangani,,,
+P329,Wilayah B,4,HDPE,75,1.52,4,Buruk,Sedang,,,Belum ditangani,,,
+P330,Wilayah C,14,HDPE,150,3.17,1,Buruk,Sedang,,,Belum ditangani,,,
+P331,Wilayah B,11,Besi,50,4.68,0,Sedang,Sedang,,,Belum ditangani,,,
+P332,Wilayah B,18,HDPE,50,4.7,1,Sedang,Tinggi,,,Belum ditangani,,,
+P333,Wilayah C,30,PVC,150,4.26,1,Buruk,Tinggi,,,Belum ditangani,,,
+P334,Wilayah C,29,PVC,50,2.54,4,Baik,Sedang,,,Belum ditangani,,,
+P335,Wilayah D,10,Besi,200,3.34,1,Buruk,Sedang,,,Belum ditangani,,,
+P336,Wilayah C,9,PVC,50,2.66,5,Sedang,Sedang,,,Belum ditangani,,,
+P337,Wilayah B,23,PVC,50,4.08,2,Sedang,Tinggi,,,Belum ditangani,,,
+P338,Wilayah D,6,HDPE,150,4.39,4,Baik,Sedang,,,Belum ditangani,,,
+P339,Wilayah B,22,PVC,75,4.94,3,Baik,Tinggi,,,Belum ditangani,,,
+P340,Wilayah C,1,Besi,150,2.32,2,Buruk,Sedang,,,Belum ditangani,,,
+P341,Wilayah B,19,HDPE,200,1.54,5,Baik,Sedang,,,Belum ditangani,,,
+P342,Wilayah E,2,HDPE,50,3.13,1,Sedang,Rendah,,,Belum ditangani,,,
+P343,Wilayah C,30,HDPE,100,3.92,5,Buruk,Tinggi,,,Belum ditangani,,,
+P344,Wilayah D,12,HDPE,75,2.27,1,Sedang,Sedang,,,Belum ditangani,,,
+P345,Wilayah E,24,HDPE,100,2.96,4,Buruk,Tinggi,,,Belum ditangani,,,
+P346,Wilayah A,26,HDPE,75,4.17,5,Buruk,Tinggi,,,Belum ditangani,,,
+P347,Wilayah A,17,Besi,200,3.96,0,Buruk,Sedang,,,Belum ditangani,,,
+P348,Wilayah C,2,HDPE,200,2.21,4,Baik,Rendah,,,Belum ditangani,,,
+P349,Wilayah D,28,HDPE,150,1.91,1,Sedang,Sedang,,,Belum ditangani,,,
+P350,Wilayah D,3,HDPE,150,4.33,3,Baik,Sedang,,,Belum ditangani,,,
+P351,Wilayah A,15,HDPE,50,3.46,5,Buruk,Tinggi,,,Belum ditangani,,,
+P352,Wilayah D,13,Besi,50,4.11,4,Baik,Sedang,,,Belum ditangani,,,
+P353,Wilayah A,12,HDPE,50,3.39,0,Buruk,Sedang,,,Belum ditangani,,,
+P354,Wilayah D,30,Besi,50,2.5,1,Buruk,Tinggi,,,Belum ditangani,,,
+P355,Wilayah E,12,Besi,150,4.54,3,Baik,Sedang,,,Belum ditangani,,,
+P356,Wilayah B,5,HDPE,100,1.92,4,Baik,Rendah,,,Belum ditangani,,,
+P357,Wilayah E,24,PVC,50,4.15,2,Sedang,Tinggi,,,Belum ditangani,,,
+P358,Wilayah B,14,HDPE,150,4.38,1,Sedang,Sedang,,,Belum ditangani,,,
+P359,Wilayah A,9,PVC,50,1.61,5,Sedang,Sedang,,,Belum ditangani,,,
+P360,Wilayah A,8,PVC,50,1.85,0,Sedang,Rendah,,,Belum ditangani,,,
+P361,Wilayah A,8,HDPE,50,2.91,1,Sedang,Sedang,,,Belum ditangani,,,
+P362,Wilayah E,5,HDPE,100,2.32,5,Sedang,Sedang,,,Belum ditangani,,,
+P363,Wilayah E,20,HDPE,100,2.33,1,Buruk,Tinggi,,,Belum ditangani,,,
+P364,Wilayah B,8,Besi,100,2.46,4,Buruk,Tinggi,,,Belum ditangani,,,
+P365,Wilayah D,21,HDPE,150,3.45,0,Buruk,Sedang,,,Belum ditangani,,,
+P366,Wilayah D,26,HDPE,100,3.94,3,Baik,Sedang,,,Belum ditangani,,,
+P367,Wilayah B,6,HDPE,150,2.34,1,Baik,Rendah,,,Belum ditangani,,,
+P368,Wilayah B,26,Besi,50,3.47,3,Sedang,Tinggi,,,Belum ditangani,,,
+P369,Wilayah D,13,PVC,100,2.21,5,Baik,Sedang,,,Belum ditangani,,,
+P370,Wilayah D,28,Besi,50,3.37,1,Baik,Sedang,,,Belum ditangani,,,
+P371,Wilayah E,22,HDPE,200,1.64,0,Baik,Rendah,,,Belum ditangani,,,
+P372,Wilayah C,24,HDPE,200,2.26,1,Buruk,Tinggi,,,Belum ditangani,,,
+P373,Wilayah D,10,PVC,75,4.78,5,Baik,Sedang,,,Belum ditangani,,,
+P374,Wilayah E,30,PVC,200,3.96,3,Buruk,Tinggi,,,Belum ditangani,,,
+P375,Wilayah C,11,Besi,150,3.13,5,Baik,Sedang,,,Belum ditangani,,,
+P376,Wilayah C,12,HDPE,150,3.13,5,Sedang,Sedang,,,Belum ditangani,,,
+P377,Wilayah B,30,PVC,100,2.6,0,Sedang,Sedang,,,Belum ditangani,,,
+P378,Wilayah D,24,PVC,50,2.41,4,Sedang,Tinggi,,,Belum ditangani,,,
+P379,Wilayah B,10,PVC,75,2.65,3,Sedang,Sedang,,,Belum ditangani,,,
+P380,Wilayah D,16,HDPE,100,2.4,3,Buruk,Tinggi,,,Belum ditangani,,,
+P381,Wilayah B,15,PVC,100,2.09,5,Sedang,Tinggi,,,Belum ditangani,,,
+P382,Wilayah A,30,HDPE,50,3.33,0,Buruk,Sedang,,,Belum ditangani,,,
+P383,Wilayah B,25,PVC,150,1.98,5,Baik,Sedang,,,Belum ditangani,,,
+P384,Wilayah E,1,PVC,200,3.1,0,Sedang,Rendah,,,Belum ditangani,,,
+P385,Wilayah A,30,Besi,150,1.56,4,Sedang,Tinggi,,,Belum ditangani,,,
+P386,Wilayah D,1,HDPE,100,3.38,2,Baik,Rendah,,,Belum ditangani,,,
+P387,Wilayah B,26,PVC,50,4.71,4,Baik,Tinggi,,,Belum ditangani,,,
+P388,Wilayah A,20,HDPE,100,4.35,2,Buruk,Tinggi,,,Belum ditangani,,,
+P389,Wilayah A,12,Besi,150,3.48,5,Baik,Sedang,,,Belum ditangani,,,
+P390,Wilayah D,21,HDPE,50,1.83,3,Baik,Sedang,,,Belum ditangani,,,
+P391,Wilayah D,2,HDPE,50,3.96,0,Sedang,Rendah,,,Belum ditangani,,,
+P392,Wilayah A,21,Besi,200,4.92,0,Buruk,Tinggi,,,Belum ditangani,,,
+P393,Wilayah C,8,PVC,200,3.16,0,Buruk,Sedang,,,Belum ditangani,,,
+P394,Wilayah C,29,HDPE,200,3.8,1,Buruk,Tinggi,,,Belum ditangani,,,
+P395,Wilayah A,1,PVC,200,2.0,5,Buruk,Sedang,,,Belum ditangani,,,
+P396,Wilayah E,10,PVC,200,2.34,3,Sedang,Sedang,,,Belum ditangani,,,
+P397,Wilayah E,11,Besi,75,4.27,5,Sedang,Tinggi,,,Belum ditangani,,,
+P398,Wilayah C,24,Besi,50,1.84,1,Buruk,Tinggi,,,Belum ditangani,,,
+P399,Wilayah C,20,HDPE,200,2.89,2,Baik,Sedang,,,Belum ditangani,,,
+P400,Wilayah D,26,Besi,150,2.3,4,Buruk,Tinggi,,,Belum ditangani,,,
+P401,Wilayah C,6,HDPE,200,3.81,0,Buruk,Rendah,,,Belum ditangani,,,
+P402,Wilayah B,26,PVC,50,1.79,1,Baik,Sedang,,,Belum ditangani,,,
+P403,Wilayah C,24,Besi,100,2.76,0,Baik,Rendah,,,Belum ditangani,,,
+P404,Wilayah D,15,Besi,100,1.86,0,Baik,Rendah,,,Belum ditangani,,,
+P405,Wilayah E,18,HDPE,200,2.93,0,Baik,Rendah,,,Belum ditangani,,,
+P406,Wilayah D,3,HDPE,200,4.25,3,Baik,Sedang,,,Belum ditangani,,,
+P407,Wilayah B,13,PVC,200,4.67,1,Sedang,Sedang,,,Belum ditangani,,,
+P408,Wilayah B,22,Besi,75,1.99,2,Baik,Sedang,,,Belum ditangani,,,
+P409,Wilayah A,3,PVC,150,2.47,2,Sedang,Rendah,,,Belum ditangani,,,
+P410,Wilayah B,12,Besi,75,4.02,3,Sedang,Tinggi,,,Belum ditangani,,,
+P411,Wilayah E,15,PVC,75,2.57,3,Baik,Sedang,,,Belum ditangani,,,
+P412,Wilayah B,13,Besi,150,2.67,5,Buruk,Tinggi,,,Belum ditangani,,,
+P413,Wilayah B,10,Besi,200,4.82,1,Sedang,Sedang,,,Belum ditangani,,,
+P414,Wilayah E,13,Besi,100,4.07,5,Sedang,Tinggi,,,Belum ditangani,,,
+P415,Wilayah E,26,PVC,100,2.82,3,Baik,Sedang,,,Belum ditangani,,,
+P416,Wilayah D,7,HDPE,200,2.13,4,Baik,Rendah,,,Belum ditangani,,,
+P417,Wilayah D,23,PVC,150,4.29,5,Baik,Tinggi,,,Belum ditangani,,,
+P418,Wilayah B,22,Besi,75,3.72,1,Baik,Sedang,,,Belum ditangani,,,
+P419,Wilayah D,23,Besi,150,1.76,4,Sedang,Tinggi,,,Belum ditangani,,,
+P420,Wilayah E,18,HDPE,150,3.4,2,Sedang,Sedang,,,Belum ditangani,,,
+P421,Wilayah C,20,HDPE,50,1.88,1,Sedang,Sedang,,,Belum ditangani,,,
+P422,Wilayah D,6,HDPE,200,1.66,5,Sedang,Sedang,Sedang,2026-11-01 20:32,Belum ditangani,,,
+P423,Wilayah E,25,Besi,150,1.87,0,Baik,Rendah,,,Belum ditangani,,,
+P424,Wilayah C,24,HDPE,200,3.53,4,Baik,Sedang,,,Belum ditangani,,,
+P425,Wilayah A,13,Besi,200,3.92,1,Baik,Rendah,,,Belum ditangani,,,
+P426,Wilayah B,16,PVC,100,2.96,0,Baik,Rendah,,,Belum ditangani,,,
+P427,Wilayah C,12,Besi,100,3.09,1,Sedang,Sedang,,,Belum ditangani,,,
+P428,Wilayah C,16,PVC,150,4.03,3,Baik,Tinggi,,,Belum ditangani,,,
+P429,Wilayah B,2,HDPE,50,1.58,2,Sedang,Rendah,,,Belum ditangani,,,
+P430,Wilayah E,30,HDPE,75,3.31,4,Baik,Sedang,,,Belum ditangani,,,
+P431,Wilayah D,14,Besi,75,4.29,5,Baik,Sedang,,,Belum ditangani,,,
+P432,Wilayah D,13,PVC,200,4.59,3,Sedang,Tinggi,,,Belum ditangani,,,
+P433,Wilayah A,1,HDPE,75,2.22,5,Buruk,Sedang,,,Belum ditangani,,,
+P434,Wilayah A,19,PVC,200,2.15,2,Baik,Sedang,,,Belum ditangani,,,
+P435,Wilayah D,9,HDPE,150,3.35,5,Baik,Sedang,,,Belum ditangani,,,
+P436,Wilayah E,20,Besi,200,1.9,2,Buruk,Tinggi,,,Belum ditangani,,,
+P437,Wilayah B,6,HDPE,100,4.72,4,Baik,Sedang,,,Belum ditangani,,,
+P438,Wilayah B,11,PVC,75,2.57,1,Baik,Rendah,,,Belum ditangani,,,
+P439,Wilayah B,17,Besi,150,3.59,4,Baik,Sedang,,,Belum ditangani,,,
+P440,Wilayah B,16,HDPE,200,3.93,5,Buruk,Tinggi,,,Belum ditangani,,,
+P441,Wilayah D,18,PVC,150,2.51,1,Baik,Sedang,,,Belum ditangani,,,
+P442,Wilayah D,20,PVC,100,4.83,3,Baik,Tinggi,,,Belum ditangani,,,
+P443,Wilayah D,18,HDPE,150,2.93,3,Sedang,Tinggi,,,Belum ditangani,,,
+P444,Wilayah C,16,PVC,50,3.48,1,Baik,Sedang,,,Belum ditangani,,,
+P445,Wilayah D,8,HDPE,100,2.09,3,Sedang,Sedang,,,Belum ditangani,,,
+P446,Wilayah C,18,HDPE,50,3.5,2,Buruk,Tinggi,,,Belum ditangani,,,
+P447,Wilayah B,18,PVC,150,3.41,3,Baik,Sedang,,,Belum ditangani,,,
+P448,Wilayah A,10,PVC,150,2.42,0,Sedang,Rendah,,,Belum ditangani,,,
+P449,Wilayah E,25,PVC,75,4.34,4,Sedang,Tinggi,,,Belum ditangani,,,
+P450,Wilayah A,21,Besi,75,3.66,1,Buruk,Tinggi,,,Belum ditangani,,,
+P451,Wilayah C,19,Besi,200,2.48,4,Baik,Sedang,,,Belum ditangani,,,
+P452,Wilayah A,10,HDPE,100,4.83,4,Buruk,Tinggi,,,Belum ditangani,,,
+P453,Wilayah B,5,Besi,50,4.97,5,Baik,Sedang,,,Belum ditangani,,,
+P454,Wilayah B,8,PVC,100,4.4,5,Baik,Sedang,,,Belum ditangani,,,
+P455,Wilayah A,19,HDPE,100,3.7,3,Sedang,Tinggi,,,Belum ditangani,,,
+P456,Wilayah D,13,HDPE,100,3.93,2,Sedang,Sedang,,,Belum ditangani,,,
+P457,Wilayah D,11,HDPE,50,4.54,5,Baik,Sedang,,,Belum ditangani,,,
+P458,Wilayah D,21,HDPE,100,4.48,4,Baik,Tinggi,,,Belum ditangani,,,
+P459,Wilayah E,27,PVC,150,2.44,2,Baik,Sedang,,,Belum ditangani,,,
+P460,Wilayah A,5,HDPE,150,4.26,5,Buruk,Tinggi,,,Belum ditangani,,,
+P461,Wilayah A,4,HDPE,150,1.56,1,Sedang,Rendah,,,Belum ditangani,,,
+P462,Wilayah C,14,PVC,75,4.59,2,Baik,Sedang,,,Belum ditangani,,,
+P463,Wilayah B,3,HDPE,100,2.38,2,Sedang,Rendah,,,Belum ditangani,,,
+P464,Wilayah A,2,Besi,100,4.04,1,Sedang,Sedang,,,Belum ditangani,,,
+P465,Wilayah B,23,PVC,50,2.25,0,Baik,Rendah,,,Belum ditangani,,,
+P466,Wilayah A,17,HDPE,150,1.53,5,Baik,Sedang,,,Belum ditangani,,,
+P467,Wilayah A,28,Besi,75,3.17,1,Baik,Sedang,,,Belum ditangani,,,
+P468,Wilayah B,4,Besi,100,4.58,1,Baik,Rendah,,,Belum ditangani,,,
+P469,Wilayah B,21,HDPE,75,1.74,4,Baik,Sedang,,,Belum ditangani,,,
+P470,Wilayah E,15,Besi,75,3.7,1,Buruk,Tinggi,,,Belum ditangani,,,
+P471,Wilayah A,22,Besi,75,1.8,0,Baik,Rendah,,,Belum ditangani,,,
+P472,Wilayah B,19,HDPE,150,2.73,3,Baik,Sedang,,,Belum ditangani,,,
+P473,Wilayah E,8,Besi,50,2.37,4,Sedang,Sedang,,,Belum ditangani,,,
+P474,Wilayah B,10,HDPE,50,4.47,5,Buruk,Tinggi,,,Belum ditangani,,,
+P475,Wilayah A,17,HDPE,200,2.16,3,Baik,Sedang,,,Belum ditangani,,,
+P476,Wilayah E,26,PVC,150,2.85,1,Sedang,Sedang,,,Belum ditangani,,,
+P477,Wilayah E,3,HDPE,50,4.95,2,Baik,Rendah,,,Belum ditangani,,,
+P478,Wilayah A,14,Besi,200,3.89,3,Buruk,Tinggi,,,Belum ditangani,,,
+P479,Wilayah A,1,HDPE,50,1.55,1,Baik,Rendah,,,Belum ditangani,,,
+P480,Wilayah D,26,Besi,200,2.5,5,Sedang,Tinggi,,,Belum ditangani,,,
+P481,Wilayah B,14,HDPE,150,1.79,4,Sedang,Sedang,,,Belum ditangani,,,
+P482,Wilayah B,9,PVC,100,1.78,1,Buruk,Sedang,,,Belum ditangani,,,
+P483,Wilayah A,18,Besi,150,3.55,5,Sedang,Tinggi,,,Belum ditangani,,,
+P484,Wilayah A,10,HDPE,150,4.05,1,Baik,Sedang,,,Belum ditangani,,,
+P485,Wilayah B,30,Besi,50,3.09,4,Baik,Sedang,,,Belum ditangani,,,
+P486,Wilayah C,4,PVC,75,3.96,1,Sedang,Rendah,,,Belum ditangani,,,
+P487,Wilayah C,17,HDPE,100,2.08,1,Sedang,Sedang,,,Belum ditangani,,,
+P488,Wilayah A,24,PVC,50,2.67,3,Baik,Sedang,,,Belum ditangani,,,
+P489,Wilayah C,9,HDPE,200,3.7,3,Sedang,Sedang,,,Belum ditangani,,,
+P490,Wilayah A,2,Besi,200,2.08,1,Baik,Rendah,,,Belum ditangani,,,
+P491,Wilayah A,29,HDPE,50,2.3,4,Baik,Sedang,,,Belum ditangani,,,
+P492,Wilayah A,8,PVC,150,2.77,1,Baik,Rendah,,,Belum ditangani,,,
+P493,Wilayah C,18,HDPE,150,2.29,1,Sedang,Sedang,,,Belum ditangani,,,
+P494,Wilayah A,9,PVC,200,2.8,4,Sedang,Sedang,,,Belum ditangani,,,
+P495,Wilayah D,6,PVC,200,4.93,3,Baik,Sedang,,,Belum ditangani,,,
+P496,Wilayah C,28,Besi,100,2.65,4,Sedang,Tinggi,,,Belum ditangani,,,
+P497,Wilayah D,7,Besi,200,4.25,5,Sedang,Sedang,,,Belum ditangani,,,
+P498,Wilayah E,12,HDPE,150,4.99,1,Sedang,Sedang,,,Belum ditangani,,,
+P499,Wilayah E,25,PVC,75,1.52,3,Baik,Sedang,,,Belum ditangani,,,
+P500,Wilayah D,12,HDPE,50,4.83,0,Buruk,Sedang,,,Belum ditangani,,,
+P501,wilayah B,10,PVC,100,3.0,0,Baik,Belum diklasifikasikan,,,Belum ditangani,,,
+P502,wilayah B,10,PVC,100,3.0,0,Baik,Belum diklasifikasikan,,,Belum ditangani,,,
+P503,wilayah B,10,PVC,100,3.0,0,Baik,Belum diklasifikasikan,,,Belum ditangani,,,
+P504,wilayah B,10,PVC,100,3.0,0,Baik,Belum diklasifikasikan,,,Belum ditangani,,,
+P505,wilayah B,10,PVC,100,3.0,0,Baik,Belum diklasifikasikan,,,Belum ditangani,,,
+P506,wilayah B,10,PVC,100,3.0,0,Baik,Belum diklasifikasikan,,,Belum ditangani,,,
+P507,wilayah B,10,PVC,100,3.0,0,Baik,Belum diklasifikasikan,,,Belum ditangani,,,
+P508,wilayah B,10,PVC,100,3.0,0,Baik,Belum diklasifikasikan,,,Belum ditangani,,,
+P510,wilayah b,10,PVC,100,3.0,0,Baik,Belum diklasifikasikan,,,Belum ditangani,,,
+P511,WILAYAH D,10,PVC,100,3.0,0,Baik,Belum diklasifikasikan,,,Belum ditangani,,,
+P512,Wilayah e,13,HDPE,650,4.0,3,Sedang,Belum diklasifikasikan,Tinggi,2026-11-02 08:43,Belum ditangani,,,
+UJI 600,Belum ditentukan,10,PVC,100,3.0,0,Baik,Belum diklasifikasikan,Rendah,2026-11-02 08:45,Belum ditangani,,,
